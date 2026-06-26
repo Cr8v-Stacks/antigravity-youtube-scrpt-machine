@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube Content Machine"
+  short_description: "Build repeatable YouTube content systems"
+  default_prompt: "Use $youtube-content-machine to build YouTube scripts and production packs with misconception mapping, an 8-minute runtime budget, a Script Control Brief, Opening Attack Ladder, Narrative Texture Rules, scene-first narration, 20-30 second re-hooks, metadata, character-consistent visual systems, dense timestamped shot lists, production-depth image prompts, and pre-delivery linting."
