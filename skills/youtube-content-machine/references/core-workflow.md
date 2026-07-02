@@ -64,7 +64,7 @@ The first 30-60 seconds should usually work like this:
 
 For "What did humans do before money?", the likely targets are barter, shells/cowries, and direct trade as a constant internal market. The stronger replacement is trust, memory, reciprocity, reputation, and delayed exchange.
 
-For renewable-energy history, likely targets may be "this started recently," "the old invention failed because it did not work," "modern versions were the first serious versions," or "the only problem was engineering." Replace those with timing, adoption, economics, infrastructure, rivalry, or social-system reasons.
+For renewable-energy and clean-energy storytelling, likely targets may be "this technology is too new to judge," "the cost problem has already been solved," "engineers are the bottleneck," or "it failed because it did not work." Replace those with real adoption barriers: grid constraints, policy timing, market economics, competing incumbents, infrastructure readiness, or a surprising historical precedent the viewer never knew existed.
 
 For science explainers, likely targets may be the simple classroom explanation, the intuitive physical explanation, or the wrong scale of the phenomenon. Replace those with the paradox, experiment, measurement, or hidden mechanism.
 
@@ -82,7 +82,29 @@ Misconception-first does not mean every script should start with "Most people th
 
 Use "Most people think..." only when it is the cleanest fastest attack, not as the default opening template.
 
-## New Channel Framework
+### Passive Imagination Frame — Forbidden Anti-Pattern
+
+A specific weak hook pattern that must be avoided in all content types is the **passive imagination frame**:
+
+- ❌ "You probably have a picture in your head right now of a clean wind farm."
+- ❌ "Imagine you're standing in front of..."
+- ❌ "Picture this: a field of solar panels..."
+- ❌ "Let's say you're thinking about..."
+
+This pattern fails because it gives the viewer an instruction before giving them a reason to care. It also creates a logical disconnect: the viewer clicked because of the title and thumbnail, not because they were already imagining the thing the hook describes. The viewer's mental state at the moment of clicking is not passive imagination — it is active curiosity, often a mix of suspicion, surprise, or intrigue triggered by the title. A strong hook meets them exactly where they are.
+
+For curiosity-driven titles ("dirty secret," "hidden cost," "the truth about," "why nobody told you"), the viewer already suspects something is wrong. Acknowledge that suspicion directly and confirm it immediately:
+
+- ✅ "You just clicked on a video called [title]. So somewhere in the back of your mind, you already suspect that something is not right."
+- ✅ "You're correct."
+- ✅ Then hit the reveal.
+
+For mystery or investigative titles, open with the physical object, number, or contradiction that proves the suspicion:
+
+- ✅ "Inside the base of almost every offshore wind turbine ever built sits a sealed metal cabinet."
+- ✅ "Sealed inside that cabinet is a gas that is 23,500 times more potent than carbon dioxide."
+- ✅ "Not in a coal plant. Not in an oil refinery. Inside a wind turbine."
+
 
 When the user wants to brainstorm or build a new channel, guide them conversationally instead of dumping every step at once.
 
@@ -308,6 +330,8 @@ The body paragraphs should feel like the viewer is being shown evidence, not tau
 - Passive voice for active historical events: not "Beer was given to workers" but "Workers were paid in beer — about 4 to 5 litres a day."
 - Long explanatory paragraphs with no scene, person, place, or object to anchor them.
 - Starting the closing paragraph with a general truth statement instead of a stacked timeline recap.
+- **Numbers and Figures Formatting Rule**: Never write out numerical statistics, capacities, temperatures, or voltages as words (e.g. do not write "sixty-six thousand volts" or "twenty-three thousand five hundred"). Always write them as standard numbers/figures (e.g., "66,000 volts", "23,500 times"). This makes the figures immediately visual and easily readable for editor overlays, captions, and subtitle rendering.
+
 
 
 ## Retention Beat Map
@@ -388,7 +412,7 @@ Different content types need different openings. Do not use one generic explaine
 
 For history mini-documentaries, origin stories, ancient history, economics history, and "what happened before X?" videos, the opening should attack the most common wrong answer before explaining the correct answer. The first minute should feel like a mystery: "Everything you think about this topic is probably wrong, so what actually happened?" Delay the answer long enough to create tension. Destroy the obvious answers first, then create demand for the real answer.
 
-For renewable-energy project videos, open with tension, scale, risk, money, competition, and possible failure. The viewer should quickly know what was promised, how big the project is, what could go wrong, and who is threatened or competing.
+For renewable-energy, clean-energy, and modern energy storytelling videos, open with tension, scale, scale of investment, a surprising question the viewer would never have thought to ask, or an immediate consequence. The viewer should know within the first 30 seconds what was promised, how big the project is, what the stakes are, and who is threatened or competing. Do NOT open with technology background or a historical context paragraph. Open with the story—conflict first, scale first, curiosity first. Use the Bible story-question pattern: "Why is Europe spending €8 billion on an island nobody will ever live on?" The question drives the script.
 
 For technology replacement videos, open with future promise, disruption, and the incumbent being challenged. The viewer should quickly understand what dominant technology may be replaced, who is betting against it, and why the replacement is not guaranteed.
 
@@ -421,11 +445,37 @@ Never start with definitions, background, or teaching. Start with:
 - The strongest curiosity object in the story.
 
 - **The Direct, Conversational "You" Hook**: Speak directly to the viewer's immediate physical reality or immediate mental state.
-  - *Viewer Mental State Hook*: "You probably have a picture in your head right now of [concept/historical scene]..." (This is highly effective because it directly targets and updates the viewer's current imagination/assumptions).
-  - *Viewer Physical Reality Hook*: "Right now, you're probably [action, e.g., drunk or about to get drunk]..." (This immediately grounds the viewer in a recognizable personal situation).
+  - *Viewer Mental State Hook*: "You probably think [concept/assumption]..." (Directly targets and updates the viewer's current assumptions).
+  - *Viewer Physical Reality Hook*: "Right now, you're probably [action]..." (Immediately grounds the viewer in a recognizable personal situation).
 
-Bad: "Let's start with a picture you probably have in your head." (Too passive/instructional; feels like a lecture beginning).
-Better: "You probably have a picture in your head right now of..." (Directly engages the viewer's current thoughts).
+**Passive Imagination Frame — Forbidden Anti-Pattern**: 
+Never open a script with a passive imagination frame:
+- ❌ "You probably have a picture in your head right now of a clean wind farm."
+- ❌ "Imagine you are standing in front of..."
+- ❌ "Picture this..."
+- ❌ "Close your eyes and think about..."
+
+This pattern fails because the viewer clicked due to active curiosity, suspicion, or surprise. Meet them there, not in a daydream. 
+
+*Exception*: The passive imagination frame is tolerated *only* in the *Human Behavior / System-Explanation* or *Human Origins* niches, and even then, only if the imagined scene is **immediately broken or betrayed** in the very next sentence (e.g., "You probably picture ancient humans living simple, short, chaotic lives. The evidence suggests something more organized and stranger."). If the script spends more than one sentence on the imagined scene before shattering it, it fails.
+
+---
+
+## Identified Mistakes (Known Failure Patterns)
+
+| Mistake | Fix |
+|---|---|
+| Too much explaining | Tell stories instead. Research drives structure; writing connects research into narrative. |
+| Not enough numbers | Every section should introduce meaningful statistics with context. |
+| No criticism | Every technology has weaknesses — discuss them. |
+| No comparisons | Everything competes with something — always show what. |
+| Paragraphs sounded robotic | Natural flowing speech that still leaves room for emphasis. 3–6 connected sentences, not stacked single lines. |
+| Not enough official names | Always name: projects, companies, technologies, countries. |
+| **Hook-to-body seam splits** | When updating or replacing hooks, rewrite the transition section entirely to bridge from the new hook into the existing body smoothly. Do not re-introduce facts the hook already revealed. |
+| **Rotational Shot Prompts** | Shot prompts must be semantically derived from the narrative mood, scale, and emotional weight of each narration line—never mechanically rotated through a fixed camera angle template. |
+| **Premature Revolution Reveals** | Do not teaser the "revolution" or "solution" before the full scale and danger of the threat is established in the viewer's mind. |
+| **Fictional/Unverified Partners** | Do not invent or include companies in metadata or scripts (e.g., Schneider Electric) unless their role is verified and sourced. |
+| **Timestamp/Runtime Drift** | Ensure the final timestamp indexes align precisely with the actual narration timings in the shot prompts. |
 Bad: "This is the first [technology]."
 Better: "The first [technology] worked. The world still rejected it."
 
@@ -601,20 +651,95 @@ Research must look for wow-factor context, not just object facts. For historical
 
 Use these details only when they tighten the story. Do not add famous names as trivia unless they create tension or a clearer payoff.
 
+## Familiar Anchor Rule (Layer 4: Human Context)
+
+Every technical, scientific, or complex engineering concept must answer at least one of these human-context questions before moving on:
+*   **Where have I seen this before?**
+*   **What school/classroom lesson does this relate to?**
+*   **What everyday experience already demonstrates this?**
+*   **What older technology solved the same problem?**
+*   **What famous historical event illustrates this principle?**
+
+Instead of forcing the viewer to leap from zero to a technical mechanism, use **Familiar Anchors** (bridging knowledge) to connect the technical idea to something their brain already knows. This is not the same as an analogy. Analogies compare. Anchors reconnect — they reactivate something the viewer already understands and attach the new concept to it. The viewer should think "Oh... I know that" or "Wait... that's just like..." at least once every couple of minutes.
+
+### Standard Anchor Mappings
+*   **Gravity Battery**: Physics class (lifting an object to store potential energy). *"Remember the physics lesson where your teacher said lifting an object stores energy? This entire project exists because that lesson was right."*
+*   **Wind Turbine**: Holding your hand outside a moving car window (to feel aerodynamic lift).
+*   **Hydrogen Production**: Splitting a water molecule into hydrogen and oxygen.
+*   **AI Data Center**: Your laptop overheating when running heavy tasks — then scaled up to millions of laptops.
+*   **Energy Island**: An airport hub, but operating for electricity instead of flights.
+*   **Pumped Hydro / Gravity Storage**: A dam that runs in reverse — stores energy by lifting water, releases it by letting water fall.
+*   **Offshore Wind Cable**: An extension cord — just one that runs across the seabed for hundreds of kilometres.
+
+### Pacing & Definition Rules
+1.  **Predict Confusion**: Do not assume the viewer already understands the underlying system. Anticipate the question *"Why does this work?"* and resolve it immediately using a familiar anchor.
+2.  **Moments to Breathe**: Introduce calm pacing check-ins to relax the viewer. Example: *"This is actually simple."* (Pause. Then the explanation.) That sentence alone signals comprehension is within reach and prevents the viewer from feeling overwhelmed.
+3.  **Disappear the Definitions**: Never present a dry, formal definition. Melt the definition into the story: *"Remember high school... that's why... and that's what we call a gravity battery."* The viewer absorbs the definition without feeling lectured at.
+4.  **Moments of Recognition**: Every couple of minutes, the viewer should think "Oh... I know that" or "Wait... that's just like...". Those recognition moments reward the brain, reduce mental effort, and make complex engineering or science feel surprisingly intuitive. If a section has no recognition moment, add a familiar anchor before moving on.
+
+### Familiar Anchor Gate
+
+Run this gate after the Script Voice Self-Audit Gate and before the Fact-Check Gate.
+
+Scan the complete script. For every major technical or engineering concept, confirm a Familiar Anchor is present — an everyday experience, school lesson, older technology, or historical precedent that connects the concept to something the viewer already knows.
+
+For each technical concept found:
+- If a Familiar Anchor exists: mark ✅
+- If a Familiar Anchor is missing: mark ❌ and add one before proceeding
+
+Report the results:
+
+```
+## Familiar Anchor Gate
+
+| # | Technical Concept | Anchor Present | Anchor Used / Added |
+|---|---|---|---|
+| 1 | [concept] | ✅ / ❌ | [anchor or "added: ..."] |
+
+Gate: PASS / FAIL
+```
+
+Do not mark the gate as PASS if any technical concept is missing its anchor. Fix first, then proceed to the Fact-Check Gate.
+
+## Altitude Shifting & Zooming Out
+
+Avoid staying at one "altitude" (e.g., repeating *Project → Company → Project → Company*) for too long. Constantly shift the scale of explanation:
+$$\text{Building/Machine} \rightarrow \text{Grid System} \rightarrow \text{High School Physics} \rightarrow \text{Historical Precedent} \rightarrow \text{Global Economics}$$
+
+This applies especially to renewable energy and science explainer scripts, where the single-altitude trap (Company → More Company → More Project → Criticism) is the most common cause of mid-video viewer drop-off.
+
+### Mini-Documentary Detours
+To refresh viewer attention and establish deep credibility, occasionally "zoom out" of the main project to run a 1-to-2 minute historical or geographic mini-documentary.
+*   *Example*: When explaining China's modern gravity batteries, zoom out to tell the story of Switzerland and Italy building the first pumped hydro storage systems in the 1890s/1907. Prove that the concept has worked reliably for over a century before zooming back in to show how the modern project applies it.
+*   Use these detours to introduce fresh visual sequences, completely different maps, historical archives, and timeline animations.
+*   The detour must be directly relevant — not a distraction, but a proof mechanism that gives the present-day claim historical authority.
+
 ## Paragraph Rule
 
-Every paragraph should contain enough connected information to justify a visual sequence.
+Every paragraph should contain enough connected information to justify a visual sequence (one paragraph = one editing sequence). 
+*   **Avoid Robotic Sentence Stacking**: Do not write in dry, disconnected, chopped-up sentences. Ensure paragraphs flow like natural, spoken language.
+*   **Paragraph Length**: Aim for **3-6 connected sentences** per paragraph.
+*   **Short Paragraphs for Emphasis**: Only use short punchy paragraphs (1-2 sentences) when emphasizing:
+    *   A surprise or reveal.
+    *   A dramatic number.
+    *   A sudden transition or question.
+    *   *Example*: 
+        > Then the wind disappeared.
+        > 
+        > For four straight days.
+        > 
+        > That's exactly the scenario engineers had spent years preparing for.
 
-Every paragraph must pass the scene test: "Can I see this happening?" If the answer is no, rewrite the paragraph around a person, object, event, setting, action, conflict, or visible system. Abstract conclusions can appear, but only after a concrete moment earns them.
+## Transition Rule
 
-Avoid many isolated short sentences unless writing a deliberate punchy hook. For body sections, give editors substance to cut around: actor, action, reason, tension, and visual cue.
+Each section must naturally and inevitably lead to the next. Avoid dry, patched-together, or academic transitions. 
+*   Create curiosity in the bridge itself: *"That solved one problem. But it immediately created another."* or *"But this idea didn't actually start here."*
 
-Avoid "truth paragraphs" that only state the lesson:
+## Research Over Opinion
 
-- Weak: "Before money, humans relied on trust, memory, and reciprocity."
-- Stronger: "If someone shared meat after a hunt, nobody pulled out a price list. The village remembered who had shared, who had taken, and who would be expected to help when the dry season came."
+Never assume; verify. Always search company websites, industry publications, government announcements, and recent news. State company claims as company claims—never state marketing material as fact. Balance optimism with evidence-based skepticism. Every technology has weaknesses; include the criticisms.
 
-The body should feel like scenes creating ideas, not ideas looking for scenes afterward.
+The body should feel like concrete scenes and anchors creating ideas, not abstract ideas looking for proof afterward.
 
 ## Production Mindset
 
@@ -622,18 +747,34 @@ Optimize for speed, consistency, and retention before polish.
 
 Default production pipeline — all gates are mandatory in order:
 
-1. **Research** — misconception map, wow-factor context, verified sources.
-2. **Script Control Brief** — lock angle, runtime, word budget, opening targets, forbidden drift before writing.
-3. **Opening Attack Ladder** — map the first-minute micro-beats before writing.
-4. **Narrative Texture Rules** — lock voice, rhythm, scene rule, re-hook type, forbidden phrases.
-5. **[Read `references/core-workflow.md` § Script Voice Standard before writing]** — internalise the viewer-first hook, chronological escalation engine, conversational re-hooks, earned humor, stacked-timeline ending, and forbidden moves.
-6. **Write script** — watching experience, not reading experience.
-7. **Script Voice Self-Audit Gate** — critique the draft against the Voice Standard before moving on. See § Script Voice Self-Audit Gate below.
-8. **Fact-Check Gate** — sweep all specific claims before shot-by-shot. See § Fact-Check Gate below.
-9. **Shot-by-shot image prompts** — timed, standalone, director-minded visual beats.
-10. **Run validators** — `script_quality_lint.py` then `production_pack_lint.py`.
-11. **Package metadata** — SEO description (250-400 words), hashtags, tags, research material.
-12. **User production** — voiceover, assembly, subtitles, sound, upload.
+1. **Research Sheet** — build or verify the research sheet before any scripting. For energy, technology, or factual scripts: identify the official project/company/technology name, current status, key numbers (cost, MW/GW/MWh, capacity, workers, timeline, height, weight, distance, efficiency, lifespan, investment), comparisons against alternatives, and the strongest recent news (last 30-90 days). Criticism is mandatory — every technology has weaknesses. Source company claims as company claims.
+
+   **1b. Present Date Check (mandatory for any script containing deadlines, bans, regulations, or events with named dates)**: Before writing, establish the current date and check every named deadline or future-tense event in the research sheet against it. If a deadline has already passed, the script must acknowledge that fact in the present tense and discuss what has happened since, not what "will" happen. Failure to run this check produces scripts where past deadlines read as future events, destroying credibility with any informed viewer. For example: if the research shows "EU ban takes effect January 1, 2026" and today's date is after January 1, 2026, the script must say "the ban took effect" and explain current industry reality, not write "the ban is coming."
+2. **Misconception Map** — identify the viewer's most likely wrong or incomplete answers before scripting. Map 3-5 folk answers; choose the 2-3 strongest to attack.
+3. **Script Control Brief** — lock angle, runtime, word budget, opening targets, story question, forbidden drift before writing.
+4. **Opening Attack Ladder** — map the first-minute micro-beats before writing.
+5. **Retention Beat Map** — map the full runtime with 16-24 pressure points before writing.
+6. **Narrative Texture Rules** — lock voice, rhythm, scene rule, re-hook type, forbidden phrases. **Identify at least one Familiar Anchor per major technical concept before writing** — name the everyday experience, school lesson, or historical precedent that will bridge each idea to the viewer's existing knowledge.
+7. **[Read `references/core-workflow.md` § Script Voice Standard before writing]** — internalise the viewer-first hook, chronological escalation engine, conversational re-hooks, earned humor, stacked-timeline ending, and forbidden moves. For renewable energy scripts also read `references/channel-profiles.md` § Renewable / Clean Energy / Storytelling before writing.
+8. **Write script** — watching experience, not reading experience. Apply Familiar Anchors, Altitude Shifting, and natural spoken paragraphs (3–6 sentences) throughout. Reserve single-sentence paragraphs for emphasis, reveals, and dramatic numbers only. The script must read like a knowledgeable person telling a story to a curious non-expert — not like a textbook section read into a microphone.
+9. **Script Voice Self-Audit Gate** — critique the draft against the Voice Standard before moving on. See § Script Voice Self-Audit Gate below.
+10. **Familiar Anchor Gate** — scan the script. Every major technical concept must have a Familiar Anchor (everyday experience, school lesson, historical precedent, or older-technology bridge). Report the gate result. If any technical section lacks one, add it before proceeding. See § Familiar Anchor Rule above for the gate output format.
+11. **Fact-Check Gate** — sweep all specific claims before shot-by-shot. See § Fact-Check Gate below.
+12. **Shot-by-shot image prompts** — timed, standalone, director-minded visual beats.
+13. **Run validators** — `script_quality_lint.py` then `production_pack_lint.py`.
+14. **Package metadata** — SEO description (250-400 words), hashtags, tags, pinned comment, community post suggestion, research material.
+
+    **Pinned Comment Standard**: The pinned comment is NOT a video summary. Its sole purpose is to start a conversation that viewers will engage with. A summary comment dies immediately — viewers read it and scroll away. A conversation-starting comment gets replied to, liked, and pinned long-term because it invites the viewer's personal reaction.
+
+    The pinned comment must do ONE of the following:
+    1.  **Ask if they already knew** ("Did you already know this, or is this the first time you're hearing it?") — works for revelatory or investigative content.
+    2.  **Ask for a personal opinion on the core tension** ("Do you think the wind industry is doing enough, or is this too little too late?") — works for controversy or policy content.
+    3.  **Create a binary/poll-style response trigger** ("Drop a ✅ if you knew, or a ❌ if this completely blindsided you.") — works for surprising or counterintuitive content.
+    4.  **Ask a forward-looking question tied to the stakes** ("If this gas cannot be replaced before 2030, does that change how you think about the green energy transition?") — works for future-facing content.
+
+    Never start a pinned comment with: "Thanks for watching," "This video was about," "To learn more," or any summary of what the video covered. The viewer just watched it. They do not need a recap — they need a reason to comment.
+
+15. **User production** — voiceover, assembly, subtitles, sound, upload.
 
 The idea carries the video. Do not overcomplicate production.
 
@@ -644,6 +785,7 @@ Run this gate immediately after writing the script and before the Fact-Check Gat
 The gate asks seven questions. Each must get a YES before proceeding.
 
 1. **Hook question**: Does the first sentence speak directly to something the viewer is doing, thinking, or picturing right now — not a question, not a definition, not "most people think"?
+   - **1a. Passive imagination check**: Does the opening use the passive imagination frame ("You probably have a picture in your head right now of...", "Imagine you're standing in front of...", "Picture this...")? If YES, rewrite. The passive imagination frame gives the viewer an instruction before giving them a reason to care. For curiosity-driven titles, instead acknowledge the viewer's click decision and confirm their suspicion immediately.
 2. **Chronological engine**: Does the timeline move in a single forward direction, with each step flipping an assumption before introducing the next? Or does it jump between locations, topics, or eras without a clear escalation arrow?
 3. **Scene test**: Sample three paragraphs from the body. Does each one contain at least one concrete person, place, object, date, action, or artifact the viewer can picture? Or are they explanation paragraphs with nothing to see?
 4. **Re-hook test**: Can you find a conversational re-hook (a direct question, a direct address, or a relatable "yeah, same" moment) within every 30-second window? Or are the transitions academic bridges ("this demonstrates," "furthermore," "it is worth noting")?
@@ -655,6 +797,7 @@ The gate asks seven questions. Each must get a YES before proceeding.
    - "In conclusion" / "In summary"
    - "As we can see"
    - Any passive construction for an active historical event (e.g. "beer was given to workers" → "workers were paid in beer")
+   - **5a. Date/tense check**: Search for phrases like "will take effect," "is coming," "is expected to," "plans to," "is set to" attached to any named date or deadline. If the current date is after that date, rewrite in past or present tense and add what has happened since.
 6. **Ending test**: Does the ending stack the timeline (time → event → time → event → thesis) rather than summarising what the video covered? Does the thesis land on top of the stack like a punch, not before it?
 7. **Article voice test**: Read the script aloud in your head. Does it sound like a person telling you something extraordinary — or like a textbook section read into a microphone?
 

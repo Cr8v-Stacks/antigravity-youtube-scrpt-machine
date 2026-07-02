@@ -45,6 +45,7 @@ Pre-delivery completeness check:
 - A/B/C prompt variations for any shots where multiple options are provided change production role, object focus, scene function, or visual metaphor, not only camera distance.
 - SEO description is minimum 250-400 words (not a short paragraph summary). Must include the hook/setup, core reversal, modern connection, topic timestamps, and resources section.
 - `script_quality_lint.py` and `production_pack_lint.py` pass when tools are available.
+- **Familiar Anchor scan**: every major technical concept in the script has a Familiar Anchor (a school lesson, everyday experience, older technology, or historical precedent that connects the technical idea to something the viewer already knows). Any technical section lacking a Familiar Anchor must be revised before delivery.
 
 Never finish with phrases like "this can be expanded into shots later" for a requested full pack. Split the pack, continue in a file, or say the output is incomplete.
 
@@ -157,6 +158,7 @@ Return:
 - Sentence rhythm: how to mix short pressure lines with fuller scene paragraphs.
 - Scene rule: what must be visible in most paragraphs.
 - Re-hook rule: what kind of viewer update appears every 20-30 seconds.
+- Familiar Anchor plan: identify at least one Familiar Anchor per major technical concept (what school lesson, everyday experience, or historical precedent will bridge each idea to the viewer's existing knowledge). Name the anchors before writing the script.
 - Forbidden phrases or moves: topic-specific versions of article voice, generic bridges, weak summaries, and early full-model reveals.
 - Model-drip rule: what truth must be delayed until scenes earn it.
 

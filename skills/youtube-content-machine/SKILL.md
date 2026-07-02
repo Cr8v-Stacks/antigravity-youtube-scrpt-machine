@@ -50,7 +50,7 @@ Do not ask questions just to delay. If the user says "do the normal prep" or ask
 4. After research and misconception mapping, write a Script Control Brief, Opening Attack Ladder, and Narrative Texture Rules that lock the angle, runtime, word budget, first-minute execution, re-hook plan, scene rules, model-drip, and forbidden drift before drafting.
 5. Choose a Channel Visual Identity Lock, then package the video with title, alternatives, thumbnail text, and thumbnail prompt.
 6. Add a primary character prompt or recurring character set before the shot list whenever named people, recurring hosts, mascots, historical figures, or repeated social roles appear.
-6a. **Before writing any script, read `references/core-workflow.md` § Script Voice Standard.** Internalise the viewer-first hook rule, chronological escalation engine, conversational re-hook patterns, earned humor placement, stacked-timeline ending structure, and the forbidden moves list. Then write the script as a watching experience, not a reading experience.
+6a. **Before writing any script, read `references/core-workflow.md` § Script Voice Standard, § Familiar Anchor Rule (Layer 4: Human Context), and § Altitude Shifting & Zooming Out.** Internalise the viewer-first hook rule, chronological escalation engine, conversational re-hook patterns, earned humor placement, stacked-timeline ending structure, the Familiar Anchor mapping system, altitude-shifting mini-documentary detour rules, and the forbidden moves list. Then write the script as a watching experience, not a reading experience. **For renewable/clean energy scripts specifically, also read `references/channel-profiles.md` § Renewable / Clean Energy / Storytelling Channels before writing** — it contains the full Writing Bible for that niche including the Layer 4 Familiar Anchor standard anchor mappings, the Human Voice Standard, the identified mistakes table, the Competitor Formula, the 30-Second Rule, and the North Star positioning.
 6b. **Run the Script Voice Self-Audit Gate** immediately after the script is written and before any fact-checking or shot-by-shot work begins. Ask the seven gate questions (hook, chronological engine, scene test, re-hook test, forbidden moves, ending, article voice). Report the gate result. If any item fails, fix the script before proceeding. See `references/core-workflow.md` § Script Voice Self-Audit Gate.
 6c. **Run the Fact-Check Gate** (see `references/fact-check.md`) after the script passes the voice audit and before shot-by-shot image prompt work begins. For factual, historical, science, archaeology, economics, or origin videos this gate is mandatory. Extract all specific claims, assign risk levels (✅ / ⚠️ / ❌), apply corrections, report results, and only proceed to shot-by-shot work after the gate passes.
 7. Generate script-to-image prompts as tightly timed, standalone visual beats, not generic paragraph labels.
@@ -84,12 +84,14 @@ Pre-final completeness ritual for every full production pack:
 - Confirm the script's actual word count and runtime estimate match the stated target band.
 - Confirm the Retention Beat Map reaches the target runtime and audits the first 3 minutes, middle, and ending.
 - **Confirm the Script Voice Self-Audit Gate was run and passed.** If not, run it now against the seven gate questions before proceeding. See `references/core-workflow.md` § Script Voice Self-Audit Gate.
+- **Confirm the Familiar Anchor Gate was run and passed.** Scan the script: every major technical concept must have a Familiar Anchor (everyday experience, school lesson, older technology, or historical precedent). Any section lacking one must be revised before delivery. See `references/core-workflow.md` § Familiar Anchor Rule for the gate output format.
 - **Confirm the Fact-Check Gate was run and passed.** If not, run it now before proceeding. See `references/fact-check.md` for the full protocol and output format.
 - Confirm the shot list covers the whole runtime with the expected density. Shots ≤3 seconds get 1 prompt. Shots 5-8 seconds may be split into 2-3 individual prompts depending on the narration content.
 - Confirm character prompts, thumbnail prompts, and shot prompts all use the same selected visual system and identity preset.
 - Confirm prompt variations change production role, not only camera distance.
 - Run `production_pack_lint.py` and `script_quality_lint.py`; revise before final if either fails.
-- In the final response, report the file path, whether it was fresh generation/revision/validation, validator results, voice audit gate result, and fact-check gate result. Do not call the work done if the pack is only a partial script, light metadata, or a prompt outline.
+- **Confirm the Familiar Anchor Gate was run.** Scan the script: every major technical concept must have a Familiar Anchor (everyday experience, school lesson, older technology, or historical precedent). Any section lacking one must be revised before delivery.
+- In the final response, report the file path, whether it was fresh generation/revision/validation, validator results, voice audit gate result, fact-check gate result, and Familiar Anchor gate result. Do not call the work done if the pack is only a partial script, light metadata, or a prompt outline.
 
 Technical file-writing rule:
 
@@ -142,10 +144,14 @@ Favor:
 - Real names, dates, locations, companies, numbers, and timelines when the niche requires factual authority.
 - A researched or inferred misconception map for factual, historical, science, finance, system, and explainer topics.
 - A clear target runtime, target word count, and maximum word count for long-form scripts.
+- **Numbers and Figures Formatting Rule**: Always write numerical statistics, capacities, temperatures, and voltages as digits/figures (e.g., 66,000 volts, 23,500 times, 2.9-gigawatt) rather than words. Never spell them out. This keeps the figures visual, readable for subtitles, and easy to translate into video text overlays.
 - A Script Control Brief before every substantial script so the output follows the chosen retention architecture.
+
 - Visual prompts with action, framing, props, period/domain details, emotional tension, and mistake-prevention constraints.
 - Literal/simple image prompts when the script only needs text, a plain object, or a simple interaction.
 - Character consistency prompts for named people, recurring people, and repeated social-role archetypes.
+- Familiar Anchors: every technical or complex concept bridged to something the viewer already knows (school lesson, everyday experience, older technology, historical precedent) before the formal explanation.
+- Altitude shifts: regularly zoom in to specific objects/projects and zoom out to history, physics, economics, or geography to prevent a flat single-perspective feeling.
 - Simple production that can be executed quickly.
 
 Avoid:
