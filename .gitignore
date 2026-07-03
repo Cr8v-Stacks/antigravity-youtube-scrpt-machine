@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 scratch/
+*images/
+*.png
+*.jpg
+*.jpeg
