@@ -8,7 +8,7 @@ This document tracks the execution and status of the three trial directions for 
 
 | Direction | Topic | Visual System | Status |
 | :--- | :--- | :--- | :--- |
-| **Direction 1: Spectacularly Bad Inventions** | The Victorian "Go-to-Sleep" Machine (or radioactive water jars) | Cinematic Documentary | ⏳ Not Started |
+| **Direction 1: Spectacularly Bad Inventions** | The Victorian "Go-to-Sleep" Machine (Alarum Bed) | Cinematic Documentary | ✅ Pack Completed & Verified |
 | **Direction 2: Bizarre Daily Routines** | Wig Nests of the 1700s (Lard & Wigs) | Notebook Sketch | ⏳ Not Started |
 | **Direction 3: Absurd Historical Laws** | The Dead Pope on Trial (Cadaver Synod) | Social Comic | 🔄 Image Gen In Progress (21/26 shots generated) |
 
@@ -18,10 +18,11 @@ This document tracks the execution and status of the three trial directions for 
 
 ### Direction 1: Spectacularly Bad Inventions (The "Infomercial Review")
 *   **The Angle**: Treat ancient or historical inventions like a modern late-night infomercial review for a product that is actively dangerous or completely useless.
-*   **Example Topic**: The Victorian "Go-to-Sleep" Machine (or radioactive water jars).
+*   **Topic**: The Victorian "Go-to-Sleep" Machine (Alarum Bed)
 *   **Tension**: Presenting it as a "must-have tool" before detailing the horrifying or absurd reality of using it.
 *   **Visual Style**: Cinematic Documentary System (showing people using ridiculous contraptions with completely deadpan, serious expressions).
-*   **Status**: ⏳ Draft script next.
+*   **Status**: ✅ Production pack completed and verified. Ready for voiceover / image generation.
+
 
 ### Direction 2: Bizarre Daily Routines (The "Pre-Modern Survival Hack")
 *   **The Angle**: Speak directly to the viewer's modern morning routine, then compare it to the utterly bizarre, gross, or dangerous hacks our ancestors used.
