@@ -111,7 +111,7 @@ Reason: The comedy of the Victorian Alarum Bed relies on historical realism. Sho
 
 # Script
 
-Are you tired of lying awake at night, tossing and turning? Modern science says: try warm milk. But the Victorians? They said: let's build a mechanical launcher.
+When you are tired of lying awake at night, tossing and turning, Modern science says: try warm milk. But the Victorians? They said: let's build a mechanical launcher.
 
 Meet the Patent Alarum Bed. Invented in eighteen fifty-one, this contraption was advertised as the ultimate cure for oversleeping and lazy mornings.
 
@@ -149,7 +149,7 @@ Rise and shine!
 # Shot-By-Shot Image Prompts
 
 1. 0:00 - 0:02
-Narration: "Are you tired of lying awake at night, tossing and turning? Modern science says: try warm milk."
+Narration: "When you are tired of lying awake at night, tossing and turning, Modern science says: try warm milk."
 Prompt A: Cinematic Documentary System, close-up composition, a modern man lying in bed in a dark room, staring wide-eyed at the ceiling with an exhausted and frustrated expression, lit only by the soft blue glow of a smartphone, vertical orientation, no text
 
 2. 0:02 - 0:05
