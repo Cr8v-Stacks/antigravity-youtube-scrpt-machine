@@ -9,7 +9,7 @@ This document tracks the execution and status of the three trial directions for 
 | Direction | Topic | Visual System | Status |
 | :--- | :--- | :--- | :--- |
 | Direction 1: Spectacularly Bad Inventions | The Victorian "Go-to-Sleep" Machine (Alarum Bed) | Cinematic Documentary | ✅ Completed & Final Video Rendered |
-| **Direction 2: Bizarre Daily Routines** | Wig Nests of the 1700s (Lard & Wigs) | Notebook Sketch | 🔄 Image Gen In Progress (11/24 shots generated) |
+| **Direction 2: Bizarre Daily Routines** | Wig Nests of the 1700s (Lard & Wigs) | Notebook Sketch | 🔄 Image Gen In Progress (18/24 shots generated) |
 | **Direction 3: Absurd Historical Laws** | The Dead Pope on Trial (Cadaver Synod) | Social Comic | ✅ Completed & Final Video Rendered |
 
 ---
@@ -32,7 +32,8 @@ This document tracks the execution and status of the three trial directions for 
 *   **Example Topic**: Wig Nests of the 1700s (why aristocrats wore giant wigs held together by lard, which attracted actual rats to nest in them while they slept).
 *   **Tension**: Taking a highly relatable modern behavior (like washing hair or keeping clean) and contrasting it with the terrifying pre-modern alternative.
 *   **Visual Style**: Notebook Sketch System (sketched "how-to" guides with handwritten warnings about mouse traps for your hair).
-*   **Status**: 🔄 Image generation in progress (11/24 shots completed). Remaining shots will be generated once the quota resets.
+*   **Status**: 🔄 Image generation in progress (18/24 shots completed). Remaining shots will be generated once the quota resets.
+
 
 
 
