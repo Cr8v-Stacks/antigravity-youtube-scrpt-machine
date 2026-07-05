@@ -225,15 +225,25 @@ Prompt A: Notebook Sketch System, medium shot, a final pencil sketch of a mouse 
 
 # SEO Meta Description
 
-Learn the disgusting secret behind 18th-century fashion trends with the strange history of wig nests! In the 1770s, noblewomen in France and England built towering hairstyles that stood over 3 feet tall. To maintain these massive structures for weeks and months at a time, they coated the hair towers in pomade made from animal fat, lard, and wheat flour. Without washing for up to 2 months, these towering hair poufs became a literal buffet for vermin. Discover how mice and rats nested in their hair while they slept, forcing nobles to use silver head cages and pillow mouse traps to survive the night.
+Modern morning routines and hair care habits might seem like a chore, but they are a dream compared to the bizarre and dangerous hair fashion trends of the 1770s. In this video, we dive into the disgusting history of wig nests and the towering hair poufs worn by wealthy aristocrats in France and England. If you have ever complained about having a bad hair day, this look at pre-modern survival hacks and noble grooming secrets will make you appreciate modern hygiene. Learn how high society fashion became a literal health hazard and an open invitation for pests.
 
-*   0:00 - The fashion hazard of 1770s hair poufs
-*   0:11 - How padding and wig frameworks reached 3 feet tall
-*   0:19 - The secret ingredient: animal fat pomade
-*   0:28 - Wearing unwashed hairstyles for 2 months
-*   0:34 - Rotting lard attracting mice and rats
-*   0:46 - Survival cages and pillow traps
-*   0:57 - Goodnight warning
+To show off their high social status, wealthy noblewomen built massive structures of hair and padding that stood over 3 feet tall. But how did they keep these colossal hair towers from collapsing under their own weight? The solution was simple but gross: they coated their hair in a heavy pomade made from animal fat, lard, and wheat flour. Because these hairstyles took hours to construct, they were never washed. Women proudly kept these rigid structures in place for weeks or even 2 months at a time, creating a walking health hazard.
+
+Unwashed hair, rotting animal fat, and starch flour are basically an all-you-can-eat buffet for household pests. At night, the strong smell of decomposing lard attracted mice and rats who crawled inside the hair towers to build warm nests while the wearer slept. To survive the night without having their scalps bitten, aristocrats had to sleep sitting upright in chairs, using protective silver cages locked over their heads to keep the rats out. Some paranoid nobles even slept with mouse traps pinned directly to their pillows.
+
+This video breaks down the daily routine, engineering, and hygiene costs of 18th-century fashion. Discover the bizarre survival mechanisms of the wealthy elite and check out why you should be glad your mattress and hair products aren't hosting a family of rodents tonight!
+
+*   0:00 - The Towering Hair Poufs: 1770s Fashion and Health Hazards
+*   0:11 - Building 3-Foot Hair Structures: Padding and Wire Frames
+*   0:22 - The Secret Pomade: Animal Fat, Lard, and Wheat Flour
+*   0:28 - Rigid Architecture: Wearing Unwashed Hair for 2 Months
+*   0:34 - The Buffet for Vermin: Rotting Lard Attracting Mice and Rats
+*   0:46 - Nighttime Survival: Sitting Upright, Silver Head Cages, and Pillow Mouse Traps
+*   0:57 - Modern Hygiene Payoff & Goodnight Warning
+
+### Call to Action & Resources
+For more deep dives into bizarre pre-modern daily routines, weird historical laws, and gross fashion history, check the links in the pinned comment. Make sure to subscribe to the channel for daily system breakdowns and history mysteries!
+
 
 # Hashtags
 
