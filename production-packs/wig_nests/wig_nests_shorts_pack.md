@@ -11,9 +11,9 @@
 # Runtime
 
 *   **Target Runtime**: 1:00 - 1:10 (YouTube Shorts)
-*   **Word Budget**: 195 - 227 words
-*   **Estimated Word Count**: 204 words
-*   **Estimated Runtime**: ~66 seconds (calibrated at 185 words per minute for linter mapping)
+*   **Word Budget**: 180 - 200 words
+*   **Estimated Word Count**: 193 words
+*   **Estimated Runtime**: ~67 seconds (calibrated at 185 words per minute for linter mapping)
 
 ---
 
@@ -43,19 +43,19 @@
 # Opening Attack Ladder
 
 *   **0:00-0:03**: Close-up pencil sketch of a modern alarm clock vibrating with speed lines.
-*   **0:03-0:06**: Elegant cursive text card on paper reading "1770s".
-*   **0:06-0:09**: Close-up sketch of a towering wig framework.
+*   **0:03-0:05**: Elegant cursive text card on paper reading "1770s".
+*   **0:05-0:08**: Close-up sketch of a towering wig framework.
 
 ---
 
 # Retention Beat Map
 
-*   **0:00 - 0:12**: Hook and setup. Compare modern morning routines to the fashion hazards of 1770s towering hair poufs.
-*   **0:12 - 0:24**: Structural secrets. Explain the 3-foot height and the use of animal fat and lard to keep them from collapsing.
-*   **0:24 - 0:33**: Hygiene reality. Reveal that these styles were kept in place unwashed for 2 months.
-*   **0:33 - 0:45**: The infestation. How the rotting animal fat attracted nesting mice and rats at night.
-*   **0:45 - 0:54**: Defensive measures. Sleeping upright with head cages and pillow mouse traps.
-*   **0:54 - 1:06**: Payoff. Bad hair day comparison and closing twist.
+*   **0:00 - 0:11**: Hook and setup. Compare modern morning routines to the fashion hazards of 1770s towering hair poufs.
+*   **0:11 - 0:22**: Structural secrets. Explain the 3-foot height and the use of animal fat and lard to keep them from collapsing.
+*   **0:22 - 0:34**: Hygiene reality. Reveal that these styles were kept in place unwashed for 2 months.
+*   **0:34 - 0:46**: The infestation. How the rotting animal fat attracted nesting mice and rats at night.
+*   **0:46 - 0:57**: Defensive measures. Sleeping upright with head cages and pillow mouse traps.
+*   **0:57 - 1:07**: Payoff. Bad hair day comparison and closing twist.
 
 ---
 
@@ -109,19 +109,7 @@ Reason: Using hand-drawn notebook sketches allows for dry, visual humor and clea
 
 # Script
 
-When you are tired of your morning routine, let's travel back to the 1770s, where fashion wasn't just painful—it was literally a health hazard.
-
-Meet the towering hair pouf. To show off their status, wealthy aristocrats built massive structures of hair and padding that stood over 3 feet tall.
-
-But how did they keep these hair towers from collapsing? Simple. They coated them in pomade made from animal fat, lard, and wheat flour.
-
-The result? A structural masterpiece that was never washed. Women kept these hairstyles in place for weeks, or even 2 months at a time.
-
-But animal fat and flour are basically a buffet for vermin. At night, the smell of rotting lard attracted mice and rats, who crawled inside the hair to nest while the wearer slept.
-
-To survive the night, aristocrats had to sleep sitting upright, with silver cages over their heads to keep the rats out. Some even slept with mouse traps pinned to their pillows.
-
-So, the next time you complain about a bad hair day, just remember: at least your hair isn't currently hosting a family of rodents. Sleep tight, and don't let the hair rats bite.
+When you are tired of your morning routine, let's travel back to the 1770s where fashion wasn't just painful, it was literally a health hazard. Meet the towering hair pouf. To show off their status, wealthy aristocrats built massive structures of hair and padding that stood over 3 feet tall. But how did they keep these hair towers from collapsing? Simple, they coated them in pomade made from animal fat, lard, and wheat flour. The result? A structural masterpiece that was never washed. Women kept these hairstyles in place for weeks or even 2 months at a time. But animal fat and flour are basically a buffet for vermin. At night, the smell of rotting lard attracted mice and rats who crawled inside the hair to nest while the wearer slept. To survive the night, aristocrats had to sleep sitting upright, with silver cages over their heads to keep the rats out. Some even slept with mouse traps pinned to their pillows. So, the next time you complain about a bad hair day, just remember, at least your hair isn't currently hosting a family of rodents. Sleep tight and don't let the hair rats bite.
 
 ---
 
@@ -137,93 +125,101 @@ So, the next time you complain about a bad hair day, just remember: at least you
 
 # Shot-By-Shot Image Prompts
 
-1. 0:00 - 0:03
+1. 0:00 - 0:02
 Narration: "When you are tired of your morning routine,"
-Prompt A: Notebook Sketch System, close-up composition, a simple pencil drawing of a modern alarm clock vibrating with speed lines, clean white paper background, representing tense frustration, no text, no 3D
+Prompt A: Notebook Sketch System, close-up composition, a simple pencil drawing of a modern alarm clock vibrating with speed lines, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing tense frustration, no text, no 3D
 
-2. 0:03 - 0:06
-Narration: "let's travel back to the 1770s, where fashion wasn't just painful—it was literally a health hazard."
-Prompt A: Notebook Sketch System, close-up composition, a clean typographic text card reading "1770s" in large cursive script on paper texture, representing historical context and tense atmosphere, no other text, no 3D
+2. 0:02 - 0:05
+Narration: "let's travel back to the 1770s where fashion"
+Prompt A: Notebook Sketch System, close-up composition, a clean typographic text card reading "1770s" in large cursive script, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing historical context and tense atmosphere, no other text, no 3D
 
-3. 0:06 - 0:09
+3. 0:05 - 0:08
+Narration: "wasn't just painful, it was literally a health hazard."
+Prompt A: Notebook Sketch System, close-up composition, pencil sketch of a woman's head showing a single high-heeled shoe pinching her ear, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing visual humor and physical discomfort tension, no text, no 3D
+
+4. 0:08 - 0:11
 Narration: "Meet the towering hair pouf."
-Prompt A: Notebook Sketch System, close-up composition, pencil sketch of a woman's head from behind showing a towering mountain of hair with supportive padding inserts visible, representing focused detail and weird design tension, no text, no 3D
+Prompt A: Notebook Sketch System, close-up composition, pencil sketch of a woman's head from behind showing a towering mountain of hair with supportive padding inserts visible, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing focused detail and weird design tension, no text, no 3D
 
-4. 0:09 - 0:12
-Narration: "To show off their status, wealthy aristocrats built massive structures of hair and padding"
-Prompt A: Notebook Sketch System, medium shot, a French noblewoman sitting rigid in a chair as a hairstylist climbs a wooden ladder to adjust her hair, representing humorous exhaustion and absurd social pressure, hand-drawn sketch lines, no text, no 3D
+5. 0:11 - 0:13
+Narration: "To show off their status, wealthy aristocrats built"
+Prompt A: Notebook Sketch System, medium shot, a French noblewoman sitting rigid in a chair as a hairstylist climbs a wooden ladder to adjust her hair, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing humorous exhaustion and absurd social pressure, no text, no 3D
 
-5. 0:12 - 0:15
-Narration: "that stood over 3 feet tall."
-Prompt A: Notebook Sketch System, close-up composition, a minimal diagram drawing of a tape measure showing "3 FEET" next to a scale outline of a human head and a massive wig, representing absurd scale contrast and measurement tension, no other text, no 3D
+6. 0:13 - 0:16
+Narration: "massive structures of hair and padding that"
+Prompt A: Notebook Sketch System, close-up composition, detailed technical cross-section diagram of a giant wig showing wire frames, wool padding, and false hair layers, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing focused technical curiosity and structural tension, no text, no 3D
 
-6. 0:15 - 0:18
-Narration: "But how did they keep these hair towers from collapsing? Simple."
-Prompt A: Notebook Sketch System, close-up composition, single hand-drawn question mark made of curly hair strands on a white paper background, representing mystery and shocked surprise, no text, no 3D
+7. 0:16 - 0:19
+Narration: "stood over 3 feet tall."
+Prompt A: Notebook Sketch System, close-up composition, a minimal diagram drawing of a tape measure showing "3 FEET" next to a scale outline of a human head and a massive wig, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing absurd scale contrast and measurement tension, no other text, no 3D
 
-7. 0:18 - 0:21
-Narration: "They coated them in pomade made from animal fat,"
-Prompt A: Notebook Sketch System, close-up composition, illustration of a wooden tub with a label sketch reading "LARD" and a simple spoon scooping out grease, representing focused texture and comedic disgust, no other text, no 3D
+8. 0:19 - 0:22
+Narration: "But how did they keep these hair towers from collapsing? Simple,"
+Prompt A: Notebook Sketch System, close-up composition, single hand-drawn question mark made of curly hair strands on a white paper background, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing mystery and shocked surprise, no text, no 3D
 
-8. 0:21 - 0:24
-Narration: "lard, and wheat flour."
-Prompt A: Notebook Sketch System, close-up composition, a hand shaking flour out of a sack onto a hair tower, white powder puffing in the air, representing comedic desperation and anxious tension, simple pencil drawing, no text, no 3D
+9. 0:22 - 0:25
+Narration: "they coated them in pomade made from animal fat,"
+Prompt A: Notebook Sketch System, close-up composition, illustration of a wooden tub with a label sketch reading "LARD" and a simple spoon scooping out grease, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing focused texture and comedic disgust, no other text, no 3D
 
-9. 0:24 - 0:27
-Narration: "The result? A structural masterpiece that was never washed."
-Prompt A: Notebook Sketch System, close-up composition, a giant hair tower with tiny drawn cartoon flies circling around it, dotted lines showing odor, representing humorous disgust and anxious tension, no text, no 3D
+10. 0:25 - 0:28
+Narration: "lard, and wheat flour. The result? A structural"
+Prompt A: Notebook Sketch System, close-up composition, a hand shaking flour out of a sack onto a hair tower, white powder puffing in the air, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing comedic desperation and anxious tension, no text, no 3D
 
-10. 0:27 - 0:30
-Narration: "Women kept these hairstyles in place for weeks,"
-Prompt A: Notebook Sketch System, close-up composition, a hand-drawn calendar sheet with the word "WEEKS" written in pencil, calendar squares crossed out with bold X marks, representing anxious waiting and structural tension, no other text, no 3D
+11. 0:28 - 0:31
+Narration: "masterpiece that was never washed."
+Prompt A: Notebook Sketch System, close-up composition, a giant hair tower with tiny drawn cartoon flies circling around it, dotted lines showing odor, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing humorous disgust and anxious tension, no text, no 3D
 
-11. 0:30 - 0:33
-Narration: "or even 2 months at a time."
-Prompt A: Notebook Sketch System, close-up composition, a clean typographic text card reading "2 MONTHS" in bold handwritten letters on textured paper, representing long duration and hygienic anxiety, no other text, no 3D
+12. 0:31 - 0:34
+Narration: "Women kept these hairstyles in place for weeks or even two"
+Prompt A: Notebook Sketch System, close-up composition, a hand-drawn calendar sheet with the word "WEEKS" written in pencil, calendar squares crossed out with bold X marks, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing anxious waiting and structural tension, no other text, no 3D
 
-12. 0:33 - 0:36
-Narration: "But animal fat and flour are basically a buffet for vermin."
-Prompt A: Notebook Sketch System, medium shot, a simple pencil drawing of a mouse wearing a tiny napkin around its neck, sitting at a miniature dinner table set on top of a giant wig, representing absurd comedic irony and anxious tension, no text, no 3D
+13. 0:34 - 0:37
+Narration: "months at a time."
+Prompt A: Notebook Sketch System, close-up composition, a clean typographic text card reading "2 MONTHS" in bold handwritten letters on textured paper, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing long duration and hygienic anxiety, no other text, no 3D
 
-13. 0:36 - 0:39
-Narration: "At night, the smell of rotting lard attracted mice and rats,"
-Prompt A: Notebook Sketch System, close-up composition, two curious mice sniff-sniffing the air with wavy scent lines pointing toward the side of the page, representing tense curiosity and sensory alarm, no text, no 3D
+14. 0:37 - 0:40
+Narration: "But animal fat and flour are basically a buffet for vermin. At night, the smell"
+Prompt A: Notebook Sketch System, medium shot, a simple pencil drawing of a mouse wearing a tiny napkin around its neck, sitting at a miniature dinner table set on top of a giant wig, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing absurd comedic irony and anxious tension, no text, no 3D
 
-14. 0:39 - 0:42
-Narration: "who crawled inside the hair to nest"
-Prompt A: Notebook Sketch System, close-up composition, a hollow nest-like opening inside a giant sketched hair structure with a tiny mouse sleeping curled up inside, representing creepy comfort and structural tension, no text, no 3D
+15. 0:40 - 0:43
+Narration: "of rotting lard attracted mice and rats"
+Prompt A: Notebook Sketch System, close-up composition, two curious mice sniff-sniffing the air with wavy scent lines pointing toward the side of the page, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing tense curiosity and sensory alarm, no text, no 3D
 
-15. 0:42 - 0:45
-Narration: "while the wearer slept."
-Prompt A: Notebook Sketch System, medium shot, the noblewoman lying in bed with her giant hair tower resting on a wooden neck support block, her face expressionless, representing deadpan, peaceful ignorance and quiet tension, no text, no 3D
+16. 0:43 - 0:46
+Narration: "who crawled inside the hair to nest while the wearer slept."
+Prompt A: Notebook Sketch System, close-up composition, a hollow nest-like opening inside a giant sketched hair structure with a tiny mouse sleeping curled up inside, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing creepy comfort and structural tension, no text, no 3D
 
-16. 0:45 - 0:48
+17. 0:46 - 0:49
 Narration: "To survive the night, aristocrats had to sleep sitting upright,"
-Prompt A: Notebook Sketch System, wide shot, a noblewoman sleeping sitting upright in an armchair, braced with pillows on both sides, representing awkward discomfort and postural exhaustion, no text, no 3D
+Prompt A: Notebook Sketch System, wide shot, a noblewoman sleeping sitting upright in an armchair, braced with pillows on both sides, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing awkward discomfort and postural exhaustion, no text, no 3D
 
-17. 0:48 - 0:51
-Narration: "with silver cages over their heads to keep the rats out."
-Prompt A: Notebook Sketch System, close-up composition, a wire dome cage locked over a giant hair tower, a frustrated mouse sitting on top of the dome, representing absurd comedic frustration and anxious tension, no text, no 3D
+18. 0:49 - 0:52
+Narration: "with silver cages over their"
+Prompt A: Notebook Sketch System, close-up composition, a wire dome cage locked over a giant hair tower, a frustrated mouse sitting on top of the dome, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing absurd comedic frustration and anxious tension, no text, no 3D
 
-18. 0:51 - 0:54
+19. 0:52 - 0:54
+Narration: "heads to keep the rats out."
+Prompt A: Notebook Sketch System, close-up composition, a noblewoman sleeping with a giant wire birdcage outline enclosing her head, look of deadpan blank expression on her face, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing visual humor and safety confinement, no text, no 3D
+
+20. 0:54 - 0:57
 Narration: "Some even slept with mouse traps pinned to their pillows."
-Prompt A: Notebook Sketch System, close-up composition, a wooden spring trap sitting on a lace pillow, a hand-drawn warning arrow pointing to the metal spring, representing tense danger and extreme desperation, no text, no 3D
+Prompt A: Notebook Sketch System, close-up composition, a wooden spring trap sitting on a lace pillow, a hand-drawn warning arrow pointing to the metal spring, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing tense danger and extreme desperation, no text, no 3D
 
-19. 0:54 - 0:57
-Narration: "So, the next time you complain about a bad hair day, just remember:"
-Prompt A: Notebook Sketch System, close-up composition, a modern woman looking at her reflection in a hand-drawn mirror with a minor annoyed look, representing anxious modern frustration, no text, no 3D
+21. 0:57 - 1:00
+Narration: "So, the next time you complain about a bad hair day, just remember,"
+Prompt A: Notebook Sketch System, close-up composition, a modern woman looking at her reflection in a hand-drawn mirror with a minor annoyed look, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing anxious modern frustration, no text, no 3D
 
-20. 0:57 - 1:00
-Narration: "at least your hair isn't currently hosting a family of rodents."
-Prompt A: Notebook Sketch System, close-up composition, a simple hand-drawn warning sign outline in black ink on aged paper, surrounded by warning scribbles and exclamation marks, representing suspenseful anticipation and anxious tension, no text, no 3D
+22. 1:00 - 1:02
+Narration: "at least your hair"
+Prompt A: Notebook Sketch System, close-up composition, a simple hand-drawn warning sign outline in black ink on aged paper, surrounded by warning scribbles and exclamation marks, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing suspenseful anticipation and anxious tension, no text, no 3D
 
-21. 1:00 - 1:03
-Narration: "Sleep tight,"
-Prompt A: Notebook Sketch System, medium shot, a simple pencil drawing of a cozy bed under a giant shadow, representing quiet suspense and anxious tension, no text, no 3D
+23. 1:02 - 1:04
+Narration: "isn't currently hosting a family of rodents."
+Prompt A: Notebook Sketch System, medium shot, a simple pencil drawing of a cozy bed under a giant shadow, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing quiet suspense and anxious tension, no text, no 3D
 
-22. 1:03 - 1:06
-Narration: "and don't let the hair rats bite."
-Prompt A: Notebook Sketch System, medium shot, a final pencil sketch of a mouse wearing a tiny crown, waving from inside a giant wig, representing humorous payoff and shocked surprise, no text, no 3D
+24. 1:04 - 1:07
+Narration: "Sleep tight and don't let the hair rats bite."
+Prompt A: Notebook Sketch System, medium shot, a final pencil sketch of a mouse wearing a tiny crown, waving from inside a giant wig, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing humorous payoff and shocked surprise, no text, no 3D
 
 ---
 
@@ -232,12 +228,12 @@ Prompt A: Notebook Sketch System, medium shot, a final pencil sketch of a mouse 
 Learn the disgusting secret behind 18th-century fashion trends with the strange history of wig nests! In the 1770s, noblewomen in France and England built towering hairstyles that stood over 3 feet tall. To maintain these massive structures for weeks and months at a time, they coated the hair towers in pomade made from animal fat, lard, and wheat flour. Without washing for up to 2 months, these towering hair poufs became a literal buffet for vermin. Discover how mice and rats nested in their hair while they slept, forcing nobles to use silver head cages and pillow mouse traps to survive the night.
 
 *   0:00 - The fashion hazard of 1770s hair poufs
-*   0:12 - How padding and wig frameworks reached 3 feet tall
-*   0:18 - The secret ingredient: animal fat pomade
-*   0:27 - Wearing unwashed hairstyles for 2 months
-*   0:33 - Rotting lard attracting mice and rats
-*   0:45 - Survival cages and pillow traps
-*   1:00 - Goodnight warning
+*   0:11 - How padding and wig frameworks reached 3 feet tall
+*   0:19 - The secret ingredient: animal fat pomade
+*   0:28 - Wearing unwashed hairstyles for 2 months
+*   0:34 - Rotting lard attracting mice and rats
+*   0:46 - Survival cages and pillow traps
+*   0:57 - Goodnight warning
 
 # Hashtags
 
