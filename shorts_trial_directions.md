@@ -9,7 +9,7 @@ This document tracks the execution and status of the three trial directions for 
 | Direction | Topic | Visual System | Status |
 | :--- | :--- | :--- | :--- |
 | Direction 1: Spectacularly Bad Inventions | The Victorian "Go-to-Sleep" Machine (Alarum Bed) | Cinematic Documentary | ✅ Completed & Final Video Rendered |
-| **Direction 2: Bizarre Daily Routines** | Wig Nests of the 1700s (Lard & Wigs) | Notebook Sketch | ⏳ Not Started |
+| **Direction 2: Bizarre Daily Routines** | Wig Nests of the 1700s (Lard & Wigs) | Notebook Sketch | ✅ Pack Completed & Verified |
 | **Direction 3: Absurd Historical Laws** | The Dead Pope on Trial (Cadaver Synod) | Social Comic | ✅ Completed & Final Video Rendered |
 
 ---
@@ -17,12 +17,10 @@ This document tracks the execution and status of the three trial directions for 
 ## 🎨 Detailed Directions
 
 ### Direction 1: Spectacularly Bad Inventions (The "Infomercial Review")
-*   **The Angle**: Treat ancient or historical inventions like a modern late-night infomercial review for a product that is actively dangerous or completely useless.
 *   **Topic**: The Victorian "Go-to-Sleep" Machine (Alarum Bed)
 *   **Tension**: Presenting it as a "must-have tool" before detailing the horrifying or absurd reality of using it.
 *   **Visual Style**: Cinematic Documentary System (showing people using ridiculous contraptions with completely deadpan, serious expressions).
 *   **Status**: ✅ Completed and final vertical video rendered! MP4 exported and reviewed.
-
 *   **Additional Topic Ideas**:
     *   *Dr. Scott's Electric Hair Brush*: A Victorian hairbrush advertised to cure baldness using "electricity" (which was actually just static magnets).
     *   *The Radon Water Jar (Revigator)*: A 1920s household water crock lined with radioactive radon ore, marketed as a health device to inject "healthy energy" into drinking water.
@@ -34,7 +32,8 @@ This document tracks the execution and status of the three trial directions for 
 *   **Example Topic**: Wig Nests of the 1700s (why aristocrats wore giant wigs held together by lard, which attracted actual rats to nest in them while they slept).
 *   **Tension**: Taking a highly relatable modern behavior (like washing hair or keeping clean) and contrasting it with the terrifying pre-modern alternative.
 *   **Visual Style**: Notebook Sketch System (sketched "how-to" guides with handwritten warnings about mouse traps for your hair).
-*   **Status**: ⏳ Draft script after Direction 1.
+*   **Status**: ✅ Production pack completed and verified. Ready for voiceover / image generation.
+
 *   **Additional Topic Ideas**:
     *   *Roman Urine Mouthwash*: Ancient Romans imported Portuguese urine to use as mouthwash because the ammonia acted as a highly effective teeth whitener.
     *   *Arsenic Complexion Wafers*: 19th-century cosmetics that women ate to achieve a fashionable pale, translucent complexion, which slowly poisoned their organs.
