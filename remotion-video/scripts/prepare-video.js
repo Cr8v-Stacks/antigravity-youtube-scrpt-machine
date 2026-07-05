@@ -7,9 +7,10 @@ const productionPacksDir = path.join(workspaceRoot, 'production-packs');
 
 // Get arguments or use defaults
 const packName = process.argv[2] || 'cadaver_synod';
-const mdFileName = packName.endsWith('_pack.md') ? packName : `${packName}_shorts_pack.md`;
-const mdFilePath = path.join(productionPacksDir, mdFileName);
-const imagesDir = path.join(productionPacksDir, `${packName}_images`);
+const packDir = path.join(productionPacksDir, packName);
+const mdFileName = `${packName}_shorts_pack.md`;
+const mdFilePath = path.join(packDir, mdFileName);
+const imagesDir = path.join(packDir, 'images');
 
 console.log(`Reading production pack: ${mdFilePath}`);
 console.log(`Source images directory: ${imagesDir}`);
@@ -51,6 +52,20 @@ const publicImagesDir = path.join(__dirname, '..', 'public', 'images');
 if (!fs.existsSync(publicImagesDir)) {
   fs.mkdirSync(publicImagesDir, { recursive: true });
 }
+
+// Setup audio file if present in the topic directory
+const mp3Files = fs.existsSync(packDir) ? fs.readdirSync(packDir).filter(f => f.endsWith('.mp3')) : [];
+let hasAudio = false;
+if (mp3Files.length > 0) {
+  // Default to first .mp3 or matching prefix
+  const matchedAudio = mp3Files.find(f => f.includes(packName) || f.startsWith('d1tools') || f.includes('audio'));
+  const audioSrc = matchedAudio || mp3Files[0];
+  const destAudioPath = path.join(__dirname, '..', 'public', 'audio.mp3');
+  fs.copyFileSync(path.join(packDir, audioSrc), destAudioPath);
+  hasAudio = true;
+  console.log(`Copied audio track: ${audioSrc} -> public/audio.mp3`);
+}
+
 
 // Extract shots
 const shotRegex = /^\s*(\d+)[\).]\s*(\d{1,2}:\d{2})\s*(?:-|\u2013)\s*(\d{1,2}:\d{2})\s*$/gm;
@@ -179,6 +194,7 @@ const outputData = {
   fps,
   width: 1080,
   height: 1920, // 9:16 vertical orientation
+  hasAudio,
   shots: processedShots
 };
 
