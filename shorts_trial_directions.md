@@ -8,7 +8,7 @@ This document tracks the execution and status of the three trial directions for 
 
 | Direction | Topic | Visual System | Status |
 | :--- | :--- | :--- | :--- |
-| Direction 1: Spectacularly Bad Inventions | The Victorian "Go-to-Sleep" Machine (Alarum Bed) | Cinematic Documentary | 🔄 Image Gen In Progress (11/23 shots generated) |
+| Direction 1: Spectacularly Bad Inventions | The Victorian "Go-to-Sleep" Machine (Alarum Bed) | Cinematic Documentary | ✅ Completed & Final Video Rendered |
 | **Direction 2: Bizarre Daily Routines** | Wig Nests of the 1700s (Lard & Wigs) | Notebook Sketch | ⏳ Not Started |
 | **Direction 3: Absurd Historical Laws** | The Dead Pope on Trial (Cadaver Synod) | Social Comic | ✅ Completed & Final Video Rendered |
 
@@ -21,7 +21,8 @@ This document tracks the execution and status of the three trial directions for 
 *   **Topic**: The Victorian "Go-to-Sleep" Machine (Alarum Bed)
 *   **Tension**: Presenting it as a "must-have tool" before detailing the horrifying or absurd reality of using it.
 *   **Visual Style**: Cinematic Documentary System (showing people using ridiculous contraptions with completely deadpan, serious expressions).
-*   **Status**: 🔄 Image generation in progress (11/23 shots completed). Remaining shots will be generated once the quota resets.
+*   **Status**: ✅ Completed and final vertical video rendered! MP4 exported and reviewed.
+
 *   **Additional Topic Ideas**:
     *   *Dr. Scott's Electric Hair Brush*: A Victorian hairbrush advertised to cure baldness using "electricity" (which was actually just static magnets).
     *   *The Radon Water Jar (Revigator)*: A 1920s household water crock lined with radioactive radon ore, marketed as a health device to inject "healthy energy" into drinking water.

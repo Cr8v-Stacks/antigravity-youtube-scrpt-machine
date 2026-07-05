@@ -113,13 +113,13 @@ Reason: The comedy of the Victorian Alarum Bed relies on historical realism. Sho
 
 When you are tired of lying awake at night, tossing and turning, Modern science says: try warm milk. But the Victorians? They said: let's build a mechanical launcher.
 
-Meet the Patent Alarum Bed. Invented in eighteen fifty-one, this contraption was advertised as the ultimate cure for oversleeping and lazy mornings.
+Meet the Patent Alarum Bed. Invented in 1851, this contraption was advertised as the ultimate cure for oversleeping and lazy mornings.
 
 The design was deceptively simple: a sturdy wooden bed frame rigged with cords, weights, and a massive mechanical grandfather clock at the head.
 
 When the alarm time arrived, the clockwork mechanism tripped a heavy iron latch under the mattress.
 
-Instantly, the bed collapsed, tilting the frame at a violent forty-five degree angle.
+Instantly, the bed collapsed, tilting the frame at a violent 45-degree angle.
 
 The result? You were dumped unceremoniously onto the hard floor.
 
@@ -157,7 +157,7 @@ Narration: "But the Victorians? They said: let's build a mechanical launcher."
 Prompt A: Cinematic Documentary System, wide shot, a grand Victorian bedroom filled with dark mahogany wood panels, in the center is a massive wooden bed frame rigged with thick iron pulleys and counterweight cords, lit by a flickering warm gaslamp representing dramatic tension, vertical orientation, no text
 
 3. 0:05 - 0:08
-Narration: "Meet the Patent Alarum Bed. Invented in eighteen fifty-one,"
+Narration: "Meet the Patent Alarum Bed. Invented in 1851,"
 Prompt A: Cinematic Documentary System, close-up composition, a sepia-toned vintage patent document with detailed diagrams of a bed mechanism and clockwork gears, aged parchment paper with faded handwriting, representing focused in the scene, vertical orientation, no text
 
 4. 0:08 - 0:11
@@ -185,7 +185,7 @@ Narration: "Instantly, the bed collapsed,"
 Prompt A: Cinematic Documentary System, wide shot, a Victorian bed's wooden support legs collapsing inward, the wooden mattress frame beginning to fall, dust rising from the joints, representing dramatic motion, vertical orientation, no text
 
 10. 0:24 - 0:27
-Narration: "tilting the frame at a violent forty-five degree angle."
+Narration: "tilting the frame at a violent 45-degree angle."
 Prompt A: Cinematic Documentary System, medium shot, the bed frame tilted at a sharp forty-five degree angle, blankets and pillows sliding down rapidly, representing dramatic tension, warm gaslamp lighting, vertical orientation, no text
 
 11. 0:27 - 0:29
