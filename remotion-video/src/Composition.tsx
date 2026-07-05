@@ -1,4 +1,4 @@
-import { useCurrentFrame, AbsoluteFill, Img } from "remotion";
+import { useCurrentFrame, AbsoluteFill, Img, Audio, staticFile } from "remotion";
 import videoData from "./video-data.json";
 
 export const MyComposition = () => {
@@ -28,7 +28,7 @@ export const MyComposition = () => {
   return (
     <AbsoluteFill
       style={{
-        backgroundColor: "#111",
+        backgroundColor: "#fcfbfa", // Clean paper-white background for illustrations
         display: "flex",
         justifyContent: "center",
         alignItems: "center",
@@ -36,6 +36,7 @@ export const MyComposition = () => {
         fontFamily: "system-ui, -apple-system, sans-serif",
       }}
     >
+      {videoData.hasAudio && <Audio src={staticFile("audio.mp3")} />}
       {/* Visual Image Render */}
       <div
         style={{
@@ -48,12 +49,27 @@ export const MyComposition = () => {
           opacity,
         }}
       >
+        {/* Deeply blurred background layer to natively fill vertical margins */}
         <Img
-          src={activeShot.imageSrc}
+          src={staticFile(activeShot.imageSrc.replace(/^\//, ""))}
           style={{
+            position: "absolute",
             width: "100%",
             height: "100%",
             objectFit: "cover",
+            filter: "blur(30px) brightness(0.65)",
+            transform: "scale(1.15)", // zoom background slightly to hide outer border artifacts
+          }}
+        />
+        {/* Sharp foreground image centered and scaled up slightly for visibility */}
+        <Img
+          src={staticFile(activeShot.imageSrc.replace(/^\//, ""))}
+          style={{
+            position: "relative",
+            width: "100%",
+            height: "100%",
+            objectFit: "contain",
+            transform: "scale(1.08)", // slightly enlarges the panel without cropping important parts
           }}
         />
       </div>
