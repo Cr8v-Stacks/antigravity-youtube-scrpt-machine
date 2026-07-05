@@ -266,7 +266,8 @@ For more details on bizarre Victorian inventions and weird historical daily rout
 
 # Tags
 
-alarum bed, worst inventions, victorian inventions, historical sleep device, funny alarm clocks, industrial revolution, mechanical bed, weird history, bad designs, catapult bed, alarm bed
+alarum bed, worst inventions, victorian inventions, historical sleep device, funny alarm clocks, industrial revolution, mechanical bed, weird history, bad designs, catapult bed, alarm bed, industrial revolution inventions, weird victorian history, mechanical alarm clock history, ludwig weber bed, 1851 great exhibition, crazy historical inventions, bizarre bed designs, sleeping habits in history, victorian daily routine, history of sleep, morning routine hacks, productivity history, worst beds ever
+
 
 ---
 

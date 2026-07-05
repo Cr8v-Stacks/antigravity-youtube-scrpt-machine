@@ -251,7 +251,8 @@ For more deep dives into bizarre pre-modern daily routines, weird historical law
 
 # Tags
 
-history, bizarre history, 1700s, fashion history, weird history, hair, wigs, pre-modern survival, funny history shorts
+history, bizarre history, 1700s, fashion history, weird history, hair, wigs, pre-modern survival, funny history shorts, historical daily routines, 18th century fashion, gross history facts, hair nests, french aristocracy, historical hygiene, bizarre grooming habits, mouse traps, head cages, 1770s fashion, noble life in history, worst styles, strange past, daily life in the 1700s, funny historical anecdotes
+
 
 ---
 
