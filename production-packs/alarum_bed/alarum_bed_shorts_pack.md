@@ -5,7 +5,6 @@
 *   **Alternative 2**: How Victorians Cured Laziness
 *   **Alternative 3**: The Alarm Clock That Threw You Out of Bed
 *   **Alternative 4**: Inside the Victorian Alarum Bed
-*   **Alternative 5**: Why Medieval Sleeping Was Safer
 
 ---
 
@@ -15,7 +14,6 @@
 *   **Word Budget**: 195 - 227 words
 *   **Estimated Word Count**: 207 words
 *   **Estimated Runtime**: ~65 seconds (calibrated at 195 words per minute)
-
 
 ---
 
@@ -28,31 +26,31 @@
     *   *Misconception 1*: The snooze button is a modern convenience that always existed.
     *   *Misconception 2*: Early morning routines were gentle.
 *   **Core Replacement Idea**: To keep workers productive during the Industrial Revolution, Victorians built mechanical launching pads disguised as mattresses that literally dumped sleepers onto the floor or into tubs of ice water.
-*   **Retention Engine**: Fast visual transitions, highly sarcastic infomercial voice, dramatic reenactments with deadpan, serious Victorian faces.
+*   **Retention Engine**: Fast visual transitions, handwritten notes, high visual irony, and detailed sketches on paper textures.
 *   **Scene Ladder**:
     *   *Scene 1*: A modern tired person turning over in bed.
     *   *Scene 2*: An elegant Victorian bedroom with a giant clockwork grandfather clock at the head of a bed.
     *   *Scene 3*: Close-up of gear mechanisms and latches tripping.
-    *   *Scene 4*: The bed tilting violently at a forty-five degree angle.
-    *   *Scene 5*: A Victorian gentleman in nightclothes lying flat on the floor looking stunned.
+    *   *Scene 4*: The bed tilting violently at a 45-degree angle.
+    *   *Scene 5*: A Victorian gentleman in nightclothes lying flat on the floor looking dazed.
     *   *Scene 6*: A Victorian newspaper advertisement showcasing the bed.
 *   **Re-hook Plan**: Introduce the ice-water tub modification at the 32-second mark to escalate the mechanical horror.
-*   **Forbidden Drift**: No cartoon elements. This uses the Cinematic Documentary style, so everything must feel grounded, texturally detailed, and historically accurate.
+*   **Forbidden Drift**: No photo-realism or cinematic documentary photos. Keep it in the Notebook Sketch System.
 *   **Ending Target**: A witty contrast between the snooze button on our phones and the mechanical launch system.
 
 ---
 
 # Opening Attack Ladder
 
-*   **0:00-0:02**: Close-up of a modern person sleeping fitfully, lit by a blue phone glow.
-*   **0:02-0:05**: Medium shot of a heavy cast-iron mechanical mechanism with copper gears revolving under a wooden frame.
-*   **0:05-0:08**: Wide shot of a grand, dark-paneled Victorian bedroom featuring a massive wooden bed frame rigged with heavy counterweight cords.
+*   **0:00-0:02**: Close-up pencil sketch of a modern person sleeping fitfully with phone glow.
+*   **0:02-0:05**: Sketch of heavy counterweight cords on a wooden frame.
+*   **0:05-0:08**: Sketch of Victorian grandfather clock headboard.
 
 ---
 
 # Retention Beat Map
 
-*   **0:00 - 0:11**: Relatable morning dilemma. Contrast modern sleep advice (warm milk) with the harsh Victorian mechanical solution.
+*   **0:00 - 0:11**: Hook and setup. Compare modern sleep advice (warm milk) with the harsh Victorian mechanical solution.
 *   **0:11 - 0:22**: Introducing the device. Detail the clockwork grandfather clock rigging and structural setup.
 *   **0:22 - 0:32**: The Launch. Describe the latch releasing and the sudden, violent collapse of the mattress frame.
 *   **0:32 - 0:44**: Freezing Escalation. The ice water tub alternative and the industrial marketing pitch of London newspapers.
@@ -64,8 +62,8 @@
 # Narrative Texture Rules
 
 *   **Voice Texture**: Energetic, dry, and highly dramatic.
-*   **Sentence Rhythm**: Snappy infomercial transitions ("The result? You were dumped...") interspersed with technical details.
-*   **Scene Rule**: Warm, muted candlelight or gaslamp colors, heavy wooden furniture, brass accents, and deadpan actor expressions.
+*   **Sentence Rhythm**: Snappy infomercial transitions with technical details.
+*   **Scene Rule**: Paper textures, rough hand-drawn pencil lines, arrows, annotated warning notes.
 *   **Re-hook Rule**: Introduce the freezing cold water tub midway through to sustain audience attention.
 *   **Model-Drip Rule**: Reveal the mechanism's clockwork trigger before showing the physical slide.
 
@@ -73,26 +71,26 @@
 
 # Channel Visual Identity Lock
 
-*   **Channel/Niche Identity**: Spectacularly Bad Inventions.
-*   **Default Episode Visual System**: Cinematic Documentary System.
-*   **Identity Preset**: Historical Inventions Identity.
-*   **Approved alternates / inserts**: Historical patent sketches, newspaper clippings, date cards.
+*   **Channel/Niche Identity**: Bizarre Daily Routines.
+*   **Default Episode Visual System**: Notebook Sketch System.
+*   **Identity Preset**: Psychology & Historical Explanation Page.
+*   **Approved alternates / inserts**: Text cards, simple diagrams, handwritten labels.
 *   **Style DNA**:
     *   Orientation: Vertical (9:16 aspect ratio) for YouTube Shorts.
-    *   Texture: Film grain, rich wood grains, tarnished brass, aged parchment paper.
-    *   Line style or lighting: Low-key lighting, soft gaslamp glow, deep shadows.
-    *   Palette: Mahogany brown, antique brass gold, dark forest green, sepia cream.
-    *   Character treatment: Actors in period-accurate 1850s nightshirts and nightcaps, maintaining stone-faced, deadpan expressions.
-*   **Thumbnail art DNA**: A vintage sepia photo of a bed tilted at a 45-degree angle throwing a man off, labeled "WORST BED EVER!".
-*   **Forbidden drift**: No clean vector cartoon styles, no futuristic holograms, no neon colors, no 16:9 landscape frames.
+    *   Texture: White notebook paper texture, pencil lead shading, smudges.
+    *   Line style: High-contrast pencil lines, sketch outlines.
+    *   Palette: Charcoal black lines, grey shading, off-white paper.
+    *   Character treatment: Simple sketched characters with deadpan or expressive line-drawn faces.
+*   **Thumbnail art DNA**: A pencil sketch of a bed tilted at a 45-degree angle throwing a man off, labeled "WORST BED EVER!".
+*   **Forbidden drift**: No photo realism, no 3D rendering, no clean vector colors.
 
 ---
 
 # Selected Visual System
 
-Cinematic Documentary System
+Notebook Sketch System
 
-Reason: The comedy of the Victorian Alarum Bed relies on historical realism. Showing actors in authentic 1850s outfits with deadpan, serious expressions in historically detailed rooms makes the physical comedy of the invention much funnier than cartoons.
+Reason: Shifted to Notebook Sketch System to match the visual language of the channel. Sketches of technical blueprints, collapsing springs, and stick-figure historical accidents are much more expressive and consistent with the Wig Nests style.
 
 ---
 
@@ -104,7 +102,7 @@ Reason: The comedy of the Victorian Alarum Bed relies on historical realism. Sho
     *   Option 3: Curing Lazy Mornings.
     *   Option 4: Victorian Alarm Bed.
 *   **Thumbnail Image Prompts**:
-    *   `Cinematic Documentary System, sepia-toned archival photograph, wide shot, a Victorian gentleman in a white nightshirt sliding off a wooden bed frame tilted at a forty-five degree angle, looking surprised, gaslamp lit room, vertical orientation, no text`
+    *   `Notebook Sketch System, close-up composition, a pencil sketch of a Victorian gentleman in a nightshirt sliding off a wooden bed frame tilted at a 45-degree angle, look of shocked surprise on his face, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, no text, no 3D`
 *   **Recommendation**: Option 1 ("Worst Bed Ever!") paired with the sliding gentleman prompt. It immediately communicates the physical danger and comedy of the invention.
 
 ---
@@ -140,9 +138,8 @@ Rise and shine!
 # Primary Character Image Prompt Or Recurring Character Set
 
 ### The Sleepers
-
-*   **The Sleeper**: A middle-aged Victorian man with a bushy mustache, wearing a long white linen nightshirt and a floppy white nightcap, displaying a serious or startled expression.
-*   **The Inventor**: A stone-faced Victorian mechanic in a tweed waistcoat and rolled-up sleeves, holding a brass wrench.
+*   **The Sleeper**: A pencil-sketched Victorian man with a bushy mustache, wearing a long white linen nightshirt and a floppy white nightcap, displaying a startled expression, sketch style on white paper.
+*   **The Inventor**: A stone-faced Victorian mechanic in a tweed waistcoat and rolled-up sleeves, sketched in clean black lines.
 
 ---
 
@@ -150,95 +147,95 @@ Rise and shine!
 
 1. 0:00 - 0:02
 Narration: "When you are tired of lying awake at night, tossing and turning, Modern science says: try warm milk."
-Prompt A: Cinematic Documentary System, close-up composition, a modern man lying in bed in a dark room, staring wide-eyed at the ceiling with an exhausted and frustrated expression, lit only by the soft blue glow of a smartphone, vertical orientation, no text
+Prompt A: Notebook Sketch System, close-up composition, a modern man lying in bed in a dark room, staring wide-eyed at the ceiling with an exhausted and dazed expression, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing anxious tension, no text, no 3D
 
 2. 0:02 - 0:05
 Narration: "But the Victorians? They said: let's build a mechanical launcher."
-Prompt A: Cinematic Documentary System, wide shot, a grand Victorian bedroom filled with dark mahogany wood panels, in the center is a massive wooden bed frame rigged with thick iron pulleys and counterweight cords, lit by a flickering warm gaslamp representing dramatic tension, vertical orientation, no text
+Prompt A: Notebook Sketch System, wide shot, a bed frame rigged with thick iron pulleys and counterweight cords, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing anxious tension and absurd frustration, no text, no 3D
 
 3. 0:05 - 0:08
 Narration: "Meet the Patent Alarum Bed. Invented in 1851,"
-Prompt A: Cinematic Documentary System, close-up composition, a sepia-toned vintage patent document with detailed diagrams of a bed mechanism and clockwork gears, aged parchment paper with faded handwriting, representing focused in the scene, vertical orientation, no text
+Prompt A: Notebook Sketch System, close-up composition, a clean typographic text card reading "1851" in large cursive script on paper texture, representing historical context and tense atmosphere, no other text, no 3D
 
 4. 0:08 - 0:11
 Narration: "this contraption was advertised as the ultimate cure for oversleeping and lazy mornings."
-Prompt A: Cinematic Documentary System, medium shot, a Victorian gentleman in a white nightshirt and nightcap sitting stiffly in bed, looking straight ahead with a deadpan and serious expression, morning sunbeams streaming through a dusty window, representing calm, vertical orientation, no text
+Prompt A: Notebook Sketch System, medium shot, a Victorian gentleman in a white nightshirt and nightcap sitting stiffly in bed, looking straight ahead with a deadpan and serious expression, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing shocked surprise and anxious tension, no text, no 3D
 
 5. 0:11 - 0:14
 Narration: "The design was deceptively simple: a sturdy wooden bed frame rigged with cords, weights,"
-Prompt A: Cinematic Documentary System, medium shot, close-up details of thick hemp ropes wrapped around brass pulleys and iron weights hanging off the side of a heavy wooden bed frame, detailed wood textures, representing focused tension, vertical orientation, no text
+Prompt A: Notebook Sketch System, close-up composition, details of thick ropes wrapped around brass pulleys and iron weights hanging off the side of a bed frame, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing focused design tension, no text, no 3D
 
 6. 0:14 - 0:17
 Narration: "and a massive mechanical grandfather clock at the head."
-Prompt A: Cinematic Documentary System, medium shot, a tall mahogany grandfather clock built directly into the headboard of a Victorian bed, its brass gears visible behind a glass hatch, representing dramatic mystery, warm dim lighting, vertical orientation, no text
+Prompt A: Notebook Sketch System, close-up composition, a tall grandfather clock built directly into the headboard of a bed frame, brass gears visible behind a glass hatch, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing mysterious anticipation and anxious tension, no text, no 3D
 
 7. 0:17 - 0:19
 Narration: "When the alarm time arrived,"
-Prompt A: Cinematic Documentary System, close-up composition, the brass hand of a mechanical Victorian clock ticking forward to point exactly at six o'clock, gears turning behind the dial, representing tense anticipation, vertical orientation, no text
+Prompt A: Notebook Sketch System, close-up composition, the brass hand of a clock ticking forward to point exactly at six o'clock, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing tense anticipation, no text, no 3D
 
 8. 0:19 - 0:22
 Narration: "the clockwork mechanism tripped a heavy iron latch under the mattress."
-Prompt A: Cinematic Documentary System, close-up composition, a heavy iron lever and gear mechanism releasing under a wooden bed frame with a metallic snap, dust flying from the friction, representing tense release, vertical orientation, no text
+Prompt A: Notebook Sketch System, close-up composition, a heavy iron lever releasing under a bed frame with friction sparks, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing sudden release tension, no text, no 3D
 
 9. 0:22 - 0:24
 Narration: "Instantly, the bed collapsed,"
-Prompt A: Cinematic Documentary System, wide shot, a Victorian bed's wooden support legs collapsing inward, the wooden mattress frame beginning to fall, dust rising from the joints, representing dramatic motion, vertical orientation, no text
+Prompt A: Notebook Sketch System, wide shot, a bed frame support legs collapsing inward, mattress beginning to drop, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing dramatic collapse, no text, no 3D
 
 10. 0:24 - 0:27
 Narration: "tilting the frame at a violent 45-degree angle."
-Prompt A: Cinematic Documentary System, medium shot, the bed frame tilted at a sharp forty-five degree angle, blankets and pillows sliding down rapidly, representing dramatic tension, warm gaslamp lighting, vertical orientation, no text
+Prompt A: Notebook Sketch System, close-up composition, a minimal diagram drawing of a protractor showing a "45° ANGLE" next to a tilted bed frame outline, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing measurement tension, no other text, no 3D
 
 11. 0:27 - 0:29
 Narration: "The result?"
-Prompt A: Cinematic Documentary System, close-up composition, a Victorian man's face expressing sudden shock and widening eyes as he begins to fall, nightcap flying off his head, representing surprised emotion, warm sepia lighting, vertical orientation, no text
+Prompt A: Notebook Sketch System, close-up composition, a Victorian man's face expressing sudden shock and widening eyes as he begins to fall, nightcap flying off, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing shocked surprise, no text, no 3D
 
 12. 0:29 - 0:32
 Narration: "You were dumped unceremoniously onto the hard floor."
-Prompt A: Cinematic Documentary System, medium shot, a Victorian gentleman in a white nightshirt lying flat on a wooden floor next to a collapsed bed, looking completely stunned and dazed, representing awkward defeat, vertical orientation, no text
+Prompt A: Notebook Sketch System, medium shot, a Victorian gentleman in a white nightshirt lying flat on a wooden floor next to a collapsed bed, looking completely stunned, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing awkward defeat and postural discomfort, no text, no 3D
 
 13. 0:32 - 0:35
 Narration: "And if that didn't wake you,"
-Prompt A: Cinematic Documentary System, close-up composition of a metal bucket filled with ice cubes and splashing water, cold mist rising, representing tense anticipation, dark workshop background, vertical orientation, no text
+Prompt A: Notebook Sketch System, close-up composition, a metal bucket filled with ice cubes and splashing water, cold mist rising, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing cold anticipation tension, no text, no 3D
 
 14. 0:35 - 0:38
 Narration: "some extreme models even tipped you straight into a pre-positioned tub of freezing cold water."
-Prompt A: Cinematic Documentary System, wide shot, the tilted bed frame sliding the sleeping gentleman directly into a large round metal tub overflowing with cold water, giant splashes of water in the air, representing dramatic impact, vertical orientation, no text
+Prompt A: Notebook Sketch System, wide shot, a tilted bed frame sliding a sleeping gentleman directly into a large round metal tub overflowing with cold water, giant splashes in the air, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing absurd comedic frustration and anxious tension, no text, no 3D
 
 15. 0:38 - 0:41
 Narration: "It was marketed in London newspapers as a miracle of industrial discipline."
-Prompt A: Cinematic Documentary System, close-up composition, an old sepia newspaper clipping from 1851 with a bold printed advertisement reading "THE PATENT ALARUM BED" next to an engraving of the machine, representing focused detail, vertical orientation, no text
+Prompt A: Notebook Sketch System, close-up composition, an old sepia newspaper clipping from 1851 with a bold printed advertisement reading "THE PATENT ALARUM BED", pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing focused archive detail, no other text, no 3D
 
 16. 0:41 - 0:44
 Narration: "The pitch? 'Save precious minutes! Work harder!'"
-Prompt A: Cinematic Documentary System, medium shot, a stern Victorian factory owner in a black top coat and top hat, holding a pocket watch and pointing a finger forward with a demanding and serious expression, representing dramatic authority, vertical orientation, no text
+Prompt A: Notebook Sketch System, close-up composition, a bold typographic text-on-screen card reading "WORK HARDER!" in elegant Victorian slab-serif lettering, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing intense industrial pressure, no other text, no 3D
 
 17. 0:44 - 0:47
 Narration: "But in reality, users described it as a terrifying machine"
-Prompt A: Cinematic Documentary System, close-up composition of a man's hands frantically grabbing at the wooden headboard of the bed in fear, fingers slipping off the wood, representing anxious tension, vertical orientation, no text
+Prompt A: Notebook Sketch System, close-up composition, a man's hands frantically grabbing at a wooden headboard in fear, fingers slipping off the wood, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing anxious tension and panic, no text, no 3D
 
 18. 0:47 - 0:50
 Narration: "that gave you a minor concussion before your morning coffee."
-Prompt A: Cinematic Documentary System, medium shot, a Victorian man sitting on the floor rubbing his head in pain with a grimace, an empty coffee cup lying on its side next to him, representing exhausted discomfort, vertical orientation, no text
+Prompt A: Notebook Sketch System, medium shot, a Victorian man sitting on the floor rubbing his head in pain with a grimace, an empty coffee cup lying on its side next to him, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing exhausted physical discomfort and anxious tension, no text, no 3D
 
 19. 0:50 - 0:53
 Narration: "It was essentially a catapult"
-Prompt A: Cinematic Documentary System, close-up composition, vintage technical sketch of a medieval wooden catapult siege engine, drawn in black ink on aged grid paper, representing focused academic style, vertical orientation, no text
+Prompt A: Notebook Sketch System, close-up composition, a simple drawing of a medieval wooden catapult siege engine, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing academic study and historical tension, no text, no 3D
 
 20. 0:53 - 0:56
 Narration: "disguised as bedroom furniture."
-Prompt A: Cinematic Documentary System, wide shot, the Alarum Bed fully assembled in an elegant bedroom, looking completely normal and innocent, lit by soft morning sunlight, representing calm deception, vertical orientation, no text
+Prompt A: Notebook Sketch System, wide shot, a bed fully assembled in an elegant bedroom, looking completely normal and innocent, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing quiet deception and anxious tension, no text, no 3D
 
 21. 0:56 - 0:59
 Narration: "So, the next time you hit snooze on your phone, just be grateful"
-Prompt A: Cinematic Documentary System, close-up composition, a modern hand reaching out in a dimly lit bedroom to press the snooze button on a glowing smartphone screen, representing calm relief, vertical orientation, no text
+Prompt A: Notebook Sketch System, close-up composition, a modern hand reaching out in a dimly lit bedroom to press the snooze button on a glowing smartphone screen, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing calm relief, no text, no 3D
 
 22. 0:59 - 1:02
 Narration: "your mattress isn't actively trying to throw you through a brick wall."
-Prompt A: Cinematic Documentary System, wide shot, a dramatic scene showing plaster and brick dust exploding out from a wall inside a room, representing dramatic impact, vertical orientation, no text
+Prompt A: Notebook Sketch System, wide shot, a dramatic scene showing plaster and brick dust exploding out from a wall, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing chaotic impact and destructive tension, no text, no 3D
 
 23. 1:02 - 1:05
 Narration: "Rise and shine!"
-Prompt A: Cinematic Documentary System, medium shot, a modern person sitting up in bed, stretching arms and smiling cheerfully as morning light pours in, representing happy energy, vertical orientation, no text
+Prompt A: Notebook Sketch System, medium shot, a modern person sitting up in bed, stretching arms and smiling cheerfully as morning light pours in, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, representing happy energy and shocked surprise, no text, no 3D
 
 ---
 
@@ -274,4 +271,3 @@ alarum bed, worst inventions, victorian inventions, historical sleep device, fun
 *   **Misconception Map**:
     *   *Folk answer*: Industrial era workers woke up to gentle hand bells or basic watchmen.
     *   *Correction*: The absolute focus on factory efficiency led to severe, physically intrusive designs like mechanical launch systems to force wakefulness.
-
