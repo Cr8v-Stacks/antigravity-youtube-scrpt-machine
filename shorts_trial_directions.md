@@ -8,7 +8,7 @@ This document tracks the execution and status of the three trial directions for 
 
 | Direction | Topic | Visual System | Status |
 | :--- | :--- | :--- | :--- |
-| Direction 1: Spectacularly Bad Inventions | The Victorian "Go-to-Sleep" Machine (Alarum Bed) | Cinematic Documentary | ✅ Completed & Final Video Rendered |
+| Direction 1: Spectacularly Bad Inventions | The Victorian "Go-to-Sleep" Machine (Alarum Bed) | Notebook Sketch | 🔄 Reworking in Sketch: 18/23 panels generated |
 | **Direction 2: Bizarre Daily Routines** | Wig Nests of the 1700s (Lard & Wigs) | Notebook Sketch | ✅ Images Completed (24/24 panels) |
 | **Direction 3: Absurd Historical Laws** | The Dead Pope on Trial (Cadaver Synod) | Social Comic | ✅ Completed & Final Video Rendered |
 
@@ -19,8 +19,8 @@ This document tracks the execution and status of the three trial directions for 
 ### Direction 1: Spectacularly Bad Inventions (The "Infomercial Review")
 *   **Topic**: The Victorian "Go-to-Sleep" Machine (Alarum Bed)
 *   **Tension**: Presenting it as a "must-have tool" before detailing the horrifying or absurd reality of using it.
-*   **Visual Style**: Cinematic Documentary System (showing people using ridiculous contraptions with completely deadpan, serious expressions).
-*   **Status**: ✅ Completed and final vertical video rendered! MP4 exported and reviewed.
+*   **Visual Style**: Notebook Sketch System (drawing technical blueprints, gears, and collapsing springs on white paper).
+*   **Status**: 🔄 Reworking in progress. Shifting style from Cinematic to Notebook Sketch (18/23 panels completed).
 *   **Additional Topic Ideas**:
     *   *Dr. Scott's Electric Hair Brush*: A Victorian hairbrush advertised to cure baldness using "electricity" (which was actually just static magnets).
     *   *The Radon Water Jar (Revigator)*: A 1920s household water crock lined with radioactive radon ore, marketed as a health device to inject "healthy energy" into drinking water.
@@ -33,6 +33,7 @@ This document tracks the execution and status of the three trial directions for 
 *   **Tension**: Taking a highly relatable modern behavior (like washing hair or keeping clean) and contrasting it with the terrifying pre-modern alternative.
 *   **Visual Style**: Notebook Sketch System (sketched "how-to" guides with handwritten warnings about mouse traps for your hair).
 *   **Status**: ✅ Images completed. Ready for voiceover audio file.
+
 
 
 
