@@ -8,9 +8,20 @@ const productionPacksDir = path.join(workspaceRoot, 'production-packs');
 // Get arguments or use defaults
 const packName = process.argv[2] || 'cadaver_synod';
 const packDir = path.join(productionPacksDir, packName);
-const mdFileName = `${packName}_shorts_pack.md`;
-const mdFilePath = path.join(packDir, mdFileName);
 const imagesDir = path.join(packDir, 'images');
+let mdFileName = `${packName}_shorts_pack.md`;
+let mdFilePath = path.join(packDir, mdFileName);
+let isLongForm = false;
+
+if (!fs.existsSync(mdFilePath)) {
+  const longFormName = `${packName}_production_pack.md`;
+  const longFormPath = path.join(packDir, longFormName);
+  if (fs.existsSync(longFormPath)) {
+    mdFileName = longFormName;
+    mdFilePath = longFormPath;
+    isLongForm = true;
+  }
+}
 
 console.log(`Reading production pack: ${mdFilePath}`);
 console.log(`Source images directory: ${imagesDir}`);
@@ -192,8 +203,8 @@ const outputData = {
   packName,
   totalDurationFrames,
   fps,
-  width: 1080,
-  height: 1920, // 9:16 vertical orientation
+  width: isLongForm ? 1920 : 1080,
+  height: isLongForm ? 1080 : 1920,
   hasAudio,
   shots: processedShots
 };

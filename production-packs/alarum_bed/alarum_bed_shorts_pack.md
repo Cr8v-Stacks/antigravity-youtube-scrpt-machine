@@ -10,10 +10,10 @@
 
 # Runtime
 
-*   **Target Runtime**: 1:00 - 1:05 (YouTube Shorts)
+*   **Target Runtime**: 1:20
 *   **Word Budget**: 195 - 227 words
 *   **Estimated Word Count**: 207 words
-*   **Estimated Runtime**: ~65 seconds (calibrated at 195 words per minute)
+*   **Estimated Runtime**: ~80 seconds (aligned to actual audio length)
 
 ---
 
@@ -43,19 +43,44 @@
 # Opening Attack Ladder
 
 *   **0:00-0:02**: Close-up pencil sketch of a modern person sleeping fitfully with phone glow.
-*   **0:02-0:05**: Sketch of heavy counterweight cords on a wooden frame.
-*   **0:05-0:08**: Sketch of Victorian grandfather clock headboard.
+*   **0:02-0:04**: Sketch of a person tossing and turning in bed.
+*   **0:04-0:07**: Sketch of a glass of warm milk.
+*   **0:07-0:10**: Sketch of heavy counterweight cords on a wooden frame.
 
 ---
 
 # Retention Beat Map
 
-*   **0:00 - 0:11**: Hook and setup. Compare modern sleep advice (warm milk) with the harsh Victorian mechanical solution.
-*   **0:11 - 0:22**: Introducing the device. Detail the clockwork grandfather clock rigging and structural setup.
-*   **0:22 - 0:32**: The Launch. Describe the latch releasing and the sudden, violent collapse of the mattress frame.
-*   **0:32 - 0:44**: Freezing Escalation. The ice water tub alternative and the industrial marketing pitch of London newspapers.
-*   **0:44 - 0:56**: Reality Check. Describe the physical cost (concussions) and compare the bed to a military siege engine.
-*   **0:56 - 1:05**: Modern Payoff. Sarcastic relief that modern snooze buttons do not trigger catapults.
+*   **0:00 - 0:02**: Hook. Tired sleeping modern person.
+*   **0:02 - 0:04**: Tossing and turning.
+*   **0:04 - 0:07**: Warm milk advice.
+*   **0:07 - 0:10**: But the Victorians launcher.
+*   **0:10 - 0:12**: Meet the Patent Alarum Bed.
+*   **0:12 - 0:14**: Invented in 1851.
+*   **0:14 - 0:17**: Ultimate cure advertisement.
+*   **0:17 - 0:20**: Deceptively simple design.
+*   **0:20 - 0:23**: Sturdy wooden bed frame.
+*   **0:23 - 0:25**: Ropes, pulleys and weights.
+*   **0:25 - 0:29**: Massive grandfather clock headboard.
+*   **0:29 - 0:31**: Alarm time arrives.
+*   **0:31 - 0:34**: Iron latch trips under mattress.
+*   **0:34 - 0:37**: Instantly the bed collapsed.
+*   **0:37 - 0:41**: Tilting 45-degree angle.
+*   **0:41 - 0:43**: The result.
+*   **0:43 - 0:47**: Dumped onto hard floor.
+*   **0:47 - 0:49**: And if that didn't wake you.
+*   **0:49 - 0:52**: Ice water slide.
+*   **0:52 - 0:56**: Newspaper advertisements.
+*   **0:56 - 0:58**: The sales pitch.
+*   **0:58 - 1:00**: Save precious minutes.
+*   **1:00 - 1:02**: Work harder.
+*   **1:02 - 1:04**: But in reality.
+*   **1:04 - 1:07**: Concussion warning.
+*   **1:07 - 1:09**: Essentially a catapult.
+*   **1:09 - 1:11**: Disguised as bedroom furniture.
+*   **1:11 - 1:14**: So next time.
+*   **1:14 - 1:17**: Through a brick wall.
+*   **1:17 - 1:20**: Rise and shine.
 
 ---
 
@@ -146,95 +171,123 @@ Rise and shine!
 # Shot-By-Shot Image Prompts
 
 1. 0:00 - 0:02
-Narration: "When you are tired of lying awake at night, tossing and turning, Modern science says: try warm milk."
+Narration: "When you are tired of lying awake at night,"
 Prompt A: Notebook Sketch System, close-up composition, a modern man lying in bed in a dark room, staring wide-eyed at the ceiling with an exhausted and dazed expression, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing anxious tension, no text, no 3D
 
-2. 0:02 - 0:05
-Narration: "But the Victorians? They said: let's build a mechanical launcher."
+2. 0:02 - 0:04
+Narration: "tossing and turning,"
+Prompt A: Notebook Sketch System, medium shot, a person tangled in messy bedsheets, tossing and turning with an annoyed look on their face, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing anxious frustration, no text, no 3D
+
+3. 0:04 - 0:07
+Narration: "modern science says, try warm milk."
+Prompt A: Notebook Sketch System, close-up composition, a steaming glass mug of warm milk resting on a wooden nightstand, soft vapor curls rising from it, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing calm relief, no text, no 3D
+
+4. 0:07 - 0:10
+Narration: "But the Victorians? They said, let's build a mechanical launcher."
 Prompt A: Notebook Sketch System, wide shot, a bed frame rigged with thick iron pulleys and counterweight cords, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing anxious tension and absurd frustration, no text, no 3D
 
-3. 0:05 - 0:08
-Narration: "Meet the Patent Alarum Bed. Invented in 1851,"
+5. 0:10 - 0:12
+Narration: "Meet the patent alarum bed."
+Prompt A: Notebook Sketch System, close-up composition, a hand-drawn betrothed-style blueprint of a mechanical bed showing gears and latches, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing curious design detail, no text, no 3D
+
+6. 0:12 - 0:14
+Narration: "Invented in 1851,"
 Prompt A: Notebook Sketch System, close-up composition, a clean typographic text card reading "1851" in large cursive script on paper texture, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing historical context and tense atmosphere, no other text, no 3D
 
-4. 0:08 - 0:11
+7. 0:14 - 0:17
 Narration: "this contraption was advertised as the ultimate cure for oversleeping and lazy mornings."
 Prompt A: Notebook Sketch System, medium shot, a Victorian gentleman in a white nightshirt and nightcap sitting stiffly in bed, looking straight ahead with a deadpan and serious expression, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing shocked surprise and anxious tension, no text, no 3D
 
-5. 0:11 - 0:14
-Narration: "The design was deceptively simple: a sturdy wooden bed frame rigged with cords, weights,"
+8. 0:17 - 0:20
+Narration: "The design was deceptively simple,"
+Prompt A: Notebook Sketch System, close-up composition, a simple drawing of a padlock, wooden beam, and a single string, representing minimal mechanical design, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing focused design tension, no text, no 3D
+
+9. 0:20 - 0:23
+Narration: "a sturdy wooden bed frame"
+Prompt A: Notebook Sketch System, medium shot, a heavy, thick oak bed frame standing empty in a bedroom, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing heavy structure, no text, no 3D
+
+10. 0:23 - 0:26
+Narration: "rigged with cords, weights,"
 Prompt A: Notebook Sketch System, close-up composition, details of thick ropes wrapped around brass pulleys and iron weights hanging off the side of a bed frame, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing focused design tension, no text, no 3D
 
-6. 0:14 - 0:17
+11. 0:26 - 0:29
 Narration: "and a massive mechanical grandfather clock at the head."
 Prompt A: Notebook Sketch System, close-up composition, a tall grandfather clock built directly into the headboard of a bed frame, brass gears visible behind a glass hatch, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing mysterious anticipation and anxious tension, no text, no 3D
 
-7. 0:17 - 0:19
+12. 0:29 - 0:31
 Narration: "When the alarm time arrived,"
 Prompt A: Notebook Sketch System, close-up composition, the brass hand of a clock ticking forward to point exactly at six o'clock, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing tense anticipation, no text, no 3D
 
-8. 0:19 - 0:22
+13. 0:31 - 0:34
 Narration: "the clockwork mechanism tripped a heavy iron latch under the mattress."
 Prompt A: Notebook Sketch System, close-up composition, a heavy iron lever releasing under a bed frame with friction sparks, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing sudden release tension, no text, no 3D
 
-9. 0:22 - 0:24
+14. 0:34 - 0:37
 Narration: "Instantly, the bed collapsed,"
 Prompt A: Notebook Sketch System, wide shot, a bed frame support legs collapsing inward, mattress beginning to drop, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing dramatic collapse, no text, no 3D
 
-10. 0:24 - 0:27
+15. 0:37 - 0:41
 Narration: "tilting the frame at a violent 45-degree angle."
 Prompt A: Notebook Sketch System, close-up composition, a minimal diagram drawing of a protractor showing a "45° ANGLE" next to a tilted bed frame outline, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing measurement tension, no other text, no 3D
 
-11. 0:27 - 0:29
+16. 0:41 - 0:43
 Narration: "The result?"
 Prompt A: Notebook Sketch System, close-up composition, a Victorian man's face expressing sudden shock and widening eyes as he begins to fall, nightcap flying off, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing shocked surprise, no text, no 3D
 
-12. 0:29 - 0:32
+17. 0:43 - 0:47
 Narration: "You were dumped unceremoniously onto the hard floor."
 Prompt A: Notebook Sketch System, medium shot, a Victorian gentleman in a white nightshirt lying flat on a wooden floor next to a collapsed bed, looking completely dazed, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing dazed confusion, no text, no 3D
 
-13. 0:32 - 0:35
+18. 0:47 - 0:49
 Narration: "And if that didn't wake you,"
 Prompt A: Notebook Sketch System, close-up composition, a metal bucket filled with ice cubes and splashing water, cold mist rising, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing cold anticipation tension, no text, no 3D
 
-14. 0:35 - 0:38
+19. 0:49 - 0:52
 Narration: "some extreme models even tipped you straight into a pre-positioned tub of freezing cold water."
 Prompt A: Notebook Sketch System, wide shot, a tilted bed frame sliding a sleeping gentleman directly into a large round metal tub overflowing with cold water, giant splashes in the air, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing absurd comedic frustration and anxious tension, no text, no 3D
 
-15. 0:38 - 0:41
+20. 0:52 - 0:56
 Narration: "It was marketed in London newspapers as a miracle of industrial discipline."
 Prompt A: Notebook Sketch System, close-up composition, an old sepia newspaper clipping from 1851 with a bold printed advertisement reading "THE PATENT ALARUM BED", pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing focused archive detail, no other text, no 3D
 
-16. 0:41 - 0:44
-Narration: "The pitch? 'Save precious minutes! Work harder!'"
+21. 0:56 - 0:58
+Narration: "The pitch?"
+Prompt A: Notebook Sketch System, medium shot, a Victorian salesman in a top hat pointing with a cane to a diagram of the bed, expressive look, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing focused presentation, no text, no 3D
+
+22. 0:58 - 1:00
+Narration: "Save precious minutes."
+Prompt A: Notebook Sketch System, close-up composition, a pocket watch outline showing a hand spinning rapidly clockwise, representing passing time, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing urgent pressure, no text, no 3D
+
+23. 1:00 - 1:02
+Narration: "Work harder."
 Prompt A: Notebook Sketch System, close-up composition, a bold typographic text-on-screen card reading "WORK HARDER!" in elegant Victorian slab-serif lettering, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing intense industrial pressure, no other text, no 3D
 
-17. 0:44 - 0:47
+24. 1:02 - 1:04
 Narration: "But in reality, users described it as a terrifying machine"
 Prompt A: Notebook Sketch System, close-up composition, a man's hands frantically grabbing at a wooden headboard in fear, fingers slipping off the wood, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing anxious tension and panic, no text, no 3D
 
-18. 0:47 - 0:50
+25. 1:04 - 1:07
 Narration: "that gave you a minor concussion before your morning coffee."
 Prompt A: Notebook Sketch System, medium shot, a Victorian man sitting on the floor rubbing his head in pain with a grimace, an empty coffee cup lying on its side next to him, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing exhausted physical discomfort and anxious tension, no text, no 3D
 
-19. 0:50 - 0:53
+26. 1:07 - 1:09
 Narration: "It was essentially a catapult"
 Prompt A: Notebook Sketch System, close-up composition, a simple drawing of a medieval wooden catapult siege engine, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing academic study and historical tension, no text, no 3D
 
-20. 0:53 - 0:56
+27. 1:09 - 1:11
 Narration: "disguised as bedroom furniture."
 Prompt A: Notebook Sketch System, wide shot, a bed fully assembled in an elegant bedroom, looking completely normal and innocent, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing quiet deception and anxious tension, no text, no 3D
 
-21. 0:56 - 0:59
+28. 1:11 - 1:14
 Narration: "So, the next time you hit snooze on your phone, just be grateful"
 Prompt A: Notebook Sketch System, close-up composition, a modern hand reaching out in a dimly lit bedroom to press the snooze button on a glowing smartphone screen, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing calm relief, no text, no 3D
 
-22. 0:59 - 1:02
+29. 1:14 - 1:17
 Narration: "your mattress isn't actively trying to throw you through a brick wall."
 Prompt A: Notebook Sketch System, wide shot, a dramatic scene showing plaster and brick dust exploding out from a wall, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing chaotic impact and destructive tension, no text, no 3D
 
-23. 1:02 - 1:05
-Narration: "Rise and shine!"
+30. 1:17 - 1:20
+Narration: "Rise and shine."
 Prompt A: Notebook Sketch System, medium shot, a modern person sitting up in bed, stretching arms and smiling cheerfully as morning light pours in, pencil sketch style, hand-drawn charcoal lines on white textured notebook paper background, vertical aspect ratio, 9:16 orientation, 1080x1920 pixels resolution, representing happy energy and shocked surprise, no text, no 3D
 
 ---
