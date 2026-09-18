@@ -1,0 +1,195 @@
+{
+  "total_scouted": 8,
+  "target_selection_limit": 3,
+  "selected_shorts": [
+    {
+      "candidate_id": "candidate_23_zendure",
+      "brand": "Zendure",
+      "text_snippet": "Zendure faces a confirmed hardware vulnerability on the SolarFlow 2400 AC. Numerous owners on Zendure's official community forums documented...",
+      "full_text": "Zendure faces a confirmed hardware vulnerability on the SolarFlow 2400 AC. Numerous owners on Zendure's official community forums documented melted MC4 solar connectors. Symptoms include burning plastic smells, fused electrical joints, and sudden power cutoffs under heavy midday current. Imagine pulling the plug of a heavy-duty electric space heater out of the wall and finding the plastic casing soft and scorching hot to the touch. Zendure moderators acknowledged the issue as affecting a small percentage of units and handled replacements under warranty, but no mandatory safety recall was announced. No similar issue has appeared on the Hyper 2000.",
+      "estimated_words": 98,
+      "scoring": {
+        "total_score": 97,
+        "breakdown": {
+          "hook": 24,
+          "stakes": 25,
+          "narrative": 19,
+          "anchors": 15,
+          "visual": 14
+        }
+      }
+    },
+    {
+      "candidate_id": "candidate_10_anker",
+      "brand": "Anker",
+      "text_snippet": "Anker's SOLIX app delivers the cleanest, most intuitive monitoring experience for everyday consumers. The primary trade-off comes down to cl...",
+      "full_text": "Anker's SOLIX app delivers the cleanest, most intuitive monitoring experience for everyday consumers. The primary trade-off comes down to cloud latency for zero-export regulation. Because the real-time balancing calculations route through Anker's cloud servers, there is a natural 1 to 2-second delay\u2014much like tapping an app to turn on a smart lightbulb and waiting a moment for the cloud signal to bounce back. During that slight hesitation, a small amount of solar energy can momentarily slip onto the grid unpaid.",
+      "estimated_words": 80,
+      "scoring": {
+        "total_score": 94,
+        "breakdown": {
+          "hook": 24,
+          "stakes": 25,
+          "narrative": 19,
+          "anchors": 15,
+          "visual": 11
+        }
+      }
+    },
+    {
+      "candidate_id": "candidate_08_ecoflow",
+      "brand": "EcoFlow",
+      "text_snippet": "EcoFlow provides one of the most comprehensive, polished interfaces on the market. However, early adopters on community threads have documen...",
+      "full_text": "EcoFlow provides one of the most comprehensive, polished interfaces on the market. However, early adopters on community threads have documented occasional data hiccups\u2014such as the app displaying bright yellow solar generation in the middle of the night, or temporary demand spikes that trigger brief grid imports. On top of that, EcoFlow's AI dynamic tariff feature is currently described by owners as behaving more like a reliable scheduled timer than true predictive intelligence, and accessing some advanced tariff tools requires an optional \u20ac4 monthly subscription.",
+      "estimated_words": 84,
+      "scoring": {
+        "total_score": 70,
+        "breakdown": {
+          "hook": 10,
+          "stakes": 15,
+          "narrative": 19,
+          "anchors": 15,
+          "visual": 11
+        }
+      }
+    }
+  ],
+  "all_ranked_candidates": [
+    {
+      "candidate_id": "candidate_23_zendure",
+      "brand": "Zendure",
+      "text_snippet": "Zendure faces a confirmed hardware vulnerability on the SolarFlow 2400 AC. Numerous owners on Zendure's official community forums documented...",
+      "full_text": "Zendure faces a confirmed hardware vulnerability on the SolarFlow 2400 AC. Numerous owners on Zendure's official community forums documented melted MC4 solar connectors. Symptoms include burning plastic smells, fused electrical joints, and sudden power cutoffs under heavy midday current. Imagine pulling the plug of a heavy-duty electric space heater out of the wall and finding the plastic casing soft and scorching hot to the touch. Zendure moderators acknowledged the issue as affecting a small percentage of units and handled replacements under warranty, but no mandatory safety recall was announced. No similar issue has appeared on the Hyper 2000.",
+      "estimated_words": 98,
+      "scoring": {
+        "total_score": 97,
+        "breakdown": {
+          "hook": 24,
+          "stakes": 25,
+          "narrative": 19,
+          "anchors": 15,
+          "visual": 14
+        }
+      }
+    },
+    {
+      "candidate_id": "candidate_10_anker",
+      "brand": "Anker",
+      "text_snippet": "Anker's SOLIX app delivers the cleanest, most intuitive monitoring experience for everyday consumers. The primary trade-off comes down to cl...",
+      "full_text": "Anker's SOLIX app delivers the cleanest, most intuitive monitoring experience for everyday consumers. The primary trade-off comes down to cloud latency for zero-export regulation. Because the real-time balancing calculations route through Anker's cloud servers, there is a natural 1 to 2-second delay\u2014much like tapping an app to turn on a smart lightbulb and waiting a moment for the cloud signal to bounce back. During that slight hesitation, a small amount of solar energy can momentarily slip onto the grid unpaid.",
+      "estimated_words": 80,
+      "scoring": {
+        "total_score": 94,
+        "breakdown": {
+          "hook": 24,
+          "stakes": 25,
+          "narrative": 19,
+          "anchors": 15,
+          "visual": 11
+        }
+      }
+    },
+    {
+      "candidate_id": "candidate_05_anker",
+      "brand": "Anker",
+      "text_snippet": "Anker's Solarbank 2 Pro also earns consistent praise for its physical setup. The hardware slots together intuitively. The friction appears w...",
+      "full_text": "Anker's Solarbank 2 Pro also earns consistent praise for its physical setup. The hardware slots together intuitively. The friction appears when integrating Anker's Smart Meter inside your home fuse box. Multiple owners report that these smart meters can fail entirely after a few weeks, leaving the battery running blind while owners wait through slow support cycles for replacement parts.",
+      "estimated_words": 59,
+      "scoring": {
+        "total_score": 74,
+        "breakdown": {
+          "hook": 24,
+          "stakes": 15,
+          "narrative": 15,
+          "anchors": 6,
+          "visual": 14
+        }
+      }
+    },
+    {
+      "candidate_id": "candidate_08_ecoflow",
+      "brand": "EcoFlow",
+      "text_snippet": "EcoFlow provides one of the most comprehensive, polished interfaces on the market. However, early adopters on community threads have documen...",
+      "full_text": "EcoFlow provides one of the most comprehensive, polished interfaces on the market. However, early adopters on community threads have documented occasional data hiccups\u2014such as the app displaying bright yellow solar generation in the middle of the night, or temporary demand spikes that trigger brief grid imports. On top of that, EcoFlow's AI dynamic tariff feature is currently described by owners as behaving more like a reliable scheduled timer than true predictive intelligence, and accessing some advanced tariff tools requires an optional \u20ac4 monthly subscription.",
+      "estimated_words": 84,
+      "scoring": {
+        "total_score": 70,
+        "breakdown": {
+          "hook": 10,
+          "stakes": 15,
+          "narrative": 19,
+          "anchors": 15,
+          "visual": 11
+        }
+      }
+    },
+    {
+      "candidate_id": "candidate_03_ecoflow",
+      "brand": "EcoFlow",
+      "text_snippet": "Consider EcoFlow. The Stream Ultra X weighs 38.8 kg. Carrying that metal chassis through an apartment or onto a balcony requires two people....",
+      "full_text": "Consider EcoFlow. The Stream Ultra X weighs 38.8 kg. Carrying that metal chassis through an apartment or onto a balcony requires two people. More importantly, in countries like the UK, safety regulations prohibit simply running this tier of battery back through a standard wall plug. It legally requires a hardwired connection to your consumer unit installed by a certified electrician, alongside formal G98 or G99 grid notifications. That is not plug-and-play. That is an electrical project with certified paperwork that you must factor into your budget.",
+      "estimated_words": 86,
+      "scoring": {
+        "total_score": 69,
+        "breakdown": {
+          "hook": 10,
+          "stakes": 20,
+          "narrative": 19,
+          "anchors": 6,
+          "visual": 14
+        }
+      }
+    },
+    {
+      "candidate_id": "candidate_19_ecoflow",
+      "brand": "EcoFlow",
+      "text_snippet": "EcoFlow exhibits a distinct split in customer service. If your unit experiences a complete hardware failure where the device will not power ...",
+      "full_text": "EcoFlow exhibits a distinct split in customer service. If your unit experiences a complete hardware failure where the device will not power on, EcoFlow frequently ships a replacement unit within days. But if your issue involves software glitches, smart meter communication errors, or tariff scheduling bugs, tickets enter an escalation black hole. Owners describe weeks of silence, repetitive requests for video proof and diagnostic logs, followed by vague promises of future firmware patches without release dates. The official EcoFlow community subreddit maintains a monthly product issues thread just to handle the volume of stalled service tickets.",
+      "estimated_words": 96,
+      "scoring": {
+        "total_score": 66,
+        "breakdown": {
+          "hook": 10,
+          "stakes": 20,
+          "narrative": 19,
+          "anchors": 6,
+          "visual": 11
+        }
+      }
+    },
+    {
+      "candidate_id": "candidate_20_zendure",
+      "brand": "Zendure",
+      "text_snippet": "Zendure support is highly unpredictable. Some owners report prompt warranty replacements, while others report being ignored by automated sup...",
+      "full_text": "Zendure support is highly unpredictable. Some owners report prompt warranty replacements, while others report being ignored by automated support chatbots for weeks. When the connector overheating issue emerged on the 2400 AC, Zendure addressed cases individually rather than issuing a proactive customer notice. Tellingly, owners who managed to contact Zendure software engineers directly through developer forums received rapid bug fixes, proving the core engineering team is capable even when front-line customer service is overwhelmed.",
+      "estimated_words": 74,
+      "scoring": {
+        "total_score": 66,
+        "breakdown": {
+          "hook": 10,
+          "stakes": 20,
+          "narrative": 19,
+          "anchors": 6,
+          "visual": 11
+        }
+      }
+    },
+    {
+      "candidate_id": "candidate_22_ecoflow",
+      "brand": "EcoFlow",
+      "text_snippet": "EcoFlow has issued formal product recalls, including a major recall on the DELTA Max 2000 portable power station in October 2025 due to over...",
+      "full_text": "EcoFlow has issued formal product recalls, including a major recall on the DELTA Max 2000 portable power station in October 2025 due to overheating risks, which was resolved via firmware. But here is the critical distinction: none of EcoFlow's safety recalls have involved their plug-in balcony battery line. The Stream Ultra X carries a clean safety record with zero documented fires. The recalls in their portable camping line are real, but attributing those failures to their balcony solar hardware is inaccurate.",
+      "estimated_words": 81,
+      "scoring": {
+        "total_score": 66,
+        "breakdown": {
+          "hook": 10,
+          "stakes": 20,
+          "narrative": 19,
+          "anchors": 6,
+          "visual": 11
+        }
+      }
+    }
+  ]
+}

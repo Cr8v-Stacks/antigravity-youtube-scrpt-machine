@@ -390,6 +390,40 @@ Every script must be built on a verified research sheet before writing begins. I
 *   Criticism: every technology has weaknesses. Identify them and present them fairly. Balance optimism with evidence-based skepticism.
 *   Source all company claims as company claims, not as facts.
 
+### Versus & Comparison Review Standing Rules (The Retention Drop-Off Fix)
+
+These standing rules are permanent policy for all head-to-head comparison and versus scripts on **Renewable Energy Talks** (derived from the forensic retention audit of the EcoFlow vs Zendure vs Anker SOLIX video):
+
+1.  **Zero Standalone Contender & Disclaimer Blocks**:
+    *   *The Pitfall*: Spending 60–90 seconds cycling through product cards, specs, and methodology disclaimers ("we don't own these") before Category 1 destroys tension and delays the first payoff past the 4-minute mark.
+    *   *The Rule*: Eliminate standalone product introduction sections. Introduce contenders as rapid 5-second dynamic B-roll tags inside the opening attack ladder, or introduce each product directly at the point of comparison inside Category 1.
+2.  **Relocate All Generation & Testing Caveats**:
+    *   *The Pitfall*: Apologizing to the viewer that you are reviewing an older generation (e.g. Anker Solarbank 2 Pro) while a newer generation (Solarbank 4 Pro) has been announced breaks the flow and invites early drop-off.
+    *   *The Rule*: Move all generation caveats and testing disclaimers to the pinned comment and video description. In the script, cover upcoming flagships only as an active 20-second forward teaser ("stick around because in category 7 we see why Anker's newest flagship changes the math entirely").
+3.  **The 120-Second First Payoff Rule**:
+    *   The script must deliver the first scored category and comparison graphic on screen within **90 to 120 seconds** of video start. Viewers who click on a versus video demand rapid evidence and early scoring to stay invested.
+4.  **The Post-Payoff No-Lag Rule**:
+    *   *The Pitfall*: Immediately following a category scoreboard reveal (the peak exit-hazard point), inserting an abstract, philosophical essay about industry-wide issues (e.g. a 60-second explanation of why software bugs happen vs hardware recalls) creates a retention cliff.
+    *   *The Rule*: Never follow a scoreboard with an abstract lecture. Transition immediately into the next category's visceral real-world friction point (e.g. *"Now take software. When a battery hardware part fails, you send it back. But when Zendure's app froze on a cold Tuesday night..."*).
+
+### The Reusable "Best/Top" Deep-Dive Format Architecture
+
+This recurring format provides exhaustive, research-and-owner-feedback-backed market guides for consumer renewable energy hardware (*Balcony Solar Kits, Plug-In Batteries, Portable Power Stations, Solar Inverters, EV Home Chargers, Heat Pumps*):
+
+1.  **Strict Title Constraint (Zero Year Stamping)**:
+    *   Never put years in titles. Use evergreen modifiers: `"Right Now"`, `"Worth Buying"`, or clean `"Best X For Y"`.
+2.  **The Durable Criteria Principle**:
+    *   Rank systems on fundamental engineering realities and real owner longevity rather than release recency. An older, battle-tested system often beats a newly announced flagship with unstable firmware.
+    *   Bake this directly into the hook: *"Most buyers think spending top dollar on the newest model with the biggest spec sheet is the smartest move. But when you track what happens to real owners 6 to 12 months after installation, newer isn't always better. Here is what actually wins when you score on [durable criteria]."*
+3.  **Five Durable Criteria Pillars**:
+    *   *Pillar 1: Spatial Ergonomics & Real Yield* (IBC/TOPCon efficiency in tight apartment footprints vs standard PERC; multi-MPPT shading tolerance).
+    *   *Pillar 2: Acoustic Proximity & Living Comfort* (measured operating decibels 2 feet outside living/sleeping quarters; coil whine).
+    *   *Pillar 3: Cold-Weather Chemistry & Durability* (sub-zero LFP degradation, internal heating, IP weatherproofing vs direct baking sun).
+    *   *Pillar 4: Local Software Autonomy vs Cloud Hostage* (local CT clamp / S-Meter response vs cloud latency grid leakage; offline functionality).
+    *   *Pillar 5: Real-World ROI & Payback Reality* (daytime direct feed-in vs battery capital cost; dynamic time-of-use tariff economics).
+4.  **Persona Decision Matrix (Categorical Verdicts)**:
+    *   Conclude every deep dive with distinct buyer persona verdicts (Best Budget DIY, Best Space-Constrained, Best Expandable Storage, Best Offline Smart-Home Power User, Best All-in-One Beginner). Never reduce the verdict to a single generic champion.
+
 ## Human Origins / Ancient Everyday Systems
 
 ### Positioning
