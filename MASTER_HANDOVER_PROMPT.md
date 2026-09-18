@@ -41,23 +41,30 @@ Read this briefing carefully. All technical rules, creative guardrails, and arch
 
 ---
 
-## 3. The Two Vox Production Directions (Dual-Engine Architecture)
+## 3. The Two Vox Production Pathways & 6 Locked House Styles
 
-We maintain two distinct, specialized Vox creative directions (codified in `VOX_DUAL_ENGINE_GUIDE.md`):
+We maintain two execution pathways for Vox (codified in `VOX_DUAL_ENGINE_GUIDE.md` and `SYSTEM_ARCHITECTURE_AND_ENGINE_HIERARCHY.md`):
 
-### Direction 1: Cinematic Paper-Diorama Video Prompts (Generative AI Video)
-- **Target Engine**: Google Flow (Omni Flash 1.1 / Gemini Omni), Runway, Seedance.
-- **Visual DNA**: 3 physical depths separated in space (`[Background Depth]`, `[Midground Depth]`, `[Foreground Depth]`), aged-newsprint documentary collage, desaturated archival palette with hot red (`#D62E1F`) and mustard secondary (`#D9A441`), condensed bold headline caps, giant stat numbers, halftone black-and-white cutouts with rough white keylines and offset red marker strokes, torn-paper edges, brass drafting calipers, spring pop-ups with overshoot, ticking mechanical counters, rubber letterpress stamps slamming down with micro-dust puffs.
-- **Prompt Structure**: Strict 5-line format (`STYLE REFERENCE`, `SCENE`, `MOTION`, `AUDIO`, `NEGATIVE`).
-- **Sound Design**: Physical diegetic Foley ONLY (`AUDIO: mechanical shutter click, rubber stamp thud, caliper click, ratchet tick — NO voiceover, NO music`).
-- **Style Reference File**: Instruct user to attach `C:\Users\user\Downloads\newsroom_style_master_sheet.png`.
-- **NO CODE TOKENS**: Never write code component names (like `VoxTape`) in prompts. Describe real tactile materials directly (e.g., *"secured with semi-translucent yellow drafting tape"*).
+### The 6 Locked House Styles & Documentary Directions:
+1. **Newsroom Collage (Default)**: Aged newsprint (`#F4EFEA`), halftone B&W cutouts with rough white borders and offset red strokes, giant stat numerals treated as characters.
+2. **Mixed-Media Paper**: Bold solid color blocks, archival photographic cutouts, black marker circles, and high-contrast geometric paper shapes.
+3. **3D Paper Diorama**: Deep sepia craft paper and heavy textured cardboard, layers separated in physical space, censor bars, letterpress props.
+4. **Detective Casefile (Murder Board)**: Dark corkboard (`#2E1F16`), taut red yarn linking pushpins between suspect products and lab benchmarks, manila evidence folders with `[CLASSIFIED]` stamps, typewriter text, fingerprint smudges.
+5. **Polaroid Forensic Snapshot**: Authentic white chemical Polaroid 600 frames with wide chins, handwritten black Sharpie notes, chemical developing emulsion bloom (dark to full exposure), scotch tape, paperclips pinning field receipts. Ideal for field reportage and high-impact scene openers.
+6. **Tactical Cartography (Johnny Harris Map)**: Tilted 3D topographic contour blueprints, animated red route trajectories, glowing amber GPS pins, coordinate crosshairs (`48°51'24"N 2°17'48"E`), and torn paper revealing satellite terrain.
 
-### Direction 2: Editorial Swiss Graphic Motion Engine (Remotion 2.5D Parallax)
-- **Target Engine**: Remotion deterministic rendering directly to `motion_clips/`.
-- **Visual DNA**: Warm editorial paper desk (`VoxPaperDesk`, `#F4EFEA`), authentic high-resolution photographic PNG cutouts floating with soft contact shadows, permanent high-contrast typography (Space Grotesk + IBM Plex Mono), vibrant yellow felt-tip highlighter sweeps (`#F5E050`) behind permanent text, precision HUD calipers, forensic comparison tables, distressed ink stamps (`VoxStamp`).
-- **Sound Design**: Frame-accurate synchronous `.wav` Foley hits for every visual arrival and transition (`swoosh.wav`, `click.wav`, `thud.wav`, `draw.wav`, `stamp_slam.wav`).
-- **Zero Unmotivated Tape**: No arbitrary masking tape strips slapped across pristine hardware photos or slides.
+### Execution Pathways:
+- **Pathway 1: Cinematic Generative AI Video Prompts (Google Flow / Omni Flash 1.1)**:
+  - 3 physical depths separated in space (`[Background Depth]`, `[Midground Depth]`, `[Foreground Depth]`).
+  - Strict 5-line format (`STYLE REFERENCE`, `SCENE`, `MOTION`, `AUDIO`, `NEGATIVE`).
+  - Physical diegetic Foley ONLY (`AUDIO: mechanical shutter click, rubber stamp thud, caliper click, ratchet tick — NO voiceover, NO music`).
+  - Style Reference File: Instruct user to attach `C:\Users\user\Downloads\newsroom_style_master_sheet.png`.
+  - NO CODE TOKENS: Never write code component names (like `VoxTape`) in prompts. Describe real tactile materials directly.
+- **Pathway 2: Editorial Swiss Graphic Motion Engine (Remotion Deterministic Code)**:
+  - Built deterministically in Remotion directly to `motion_clips/`.
+  - Warm editorial paper desk (`VoxPaperDesk`), authentic high-resolution photographic PNG cutouts floating with soft contact shadows, permanent high-contrast typography, yellow felt-tip highlighter sweeps, precision HUD calipers, forensic comparison tables, distressed ink stamps (`VoxStamp`).
+  - Frame-accurate synchronous `.wav` Foley hits (`swoosh.wav`, `click.wav`, `thud.wav`, `draw.wav`, `stamp_slam.wav`).
+  - Zero Unmotivated Tape: No arbitrary tape strips slapped across pristine hardware photos or slides.
 
 ---
 
