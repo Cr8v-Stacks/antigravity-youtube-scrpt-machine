@@ -42,6 +42,9 @@ flowchart TD
     B2 --> V1["House Style 1: Newsroom Collage"]
     B2 --> V2["House Style 2: Mixed-Media Paper"]
     B2 --> V3["House Style 3: 3D Paper Diorama"]
+    B2 --> V4["House Style 4: Detective Casefile (Murder Board) ⭐"]
+    B2 --> V5["House Style 5: Polaroid Forensic Snapshot ⭐"]
+    B2 --> V6["House Style 6: Tactical Cartography (Johnny Harris) ⭐"]
     
     %% Execution Layer
     P3 --> EXEC["⚙️ 4. Execution & Compositing Frameworks"]
@@ -114,10 +117,13 @@ flowchart TD
 
 - **Skill Location**: [`C:\Users\user\.gemini\config\skills\vox-style\SKILL.md`](file:///C:/Users/user/.gemini/config/skills/vox-style/SKILL.md)
 - **Visual Tone**: Archival newsprint, desaturated tactile palette, hot red accent (`#D62E1F`), mustard secondary (`#D9A441`), physical paper diorama layers, halftone dot matrices, rough white keylines, and mechanical drafting tools.
-- **The 3 Locked House Styles**:
+- **The 6 Locked House Styles & Documentary Directions**:
   1. **Newsroom Collage (Default)**: Aged newsprint (`#F4EFEA`), halftone black-and-white cutouts with rough white borders and offset red strokes, giant stat numerals treated as physical characters, and print grain.
   2. **Mixed-Media Paper**: Bold solid color blocks, archival photographic cutouts, black felt-tip marker circles, and high-contrast geometric paper shapes.
   3. **3D Paper Diorama**: Deep sepia craft paper and heavy textured cardboard, layers separated in physical space, censor bars, letterpress props, and deep cinematic depth-of-field.
+  4. **Detective Casefile (Murder Board)**: Dark corkboard (`#2E1F16`), taut red yarn linking pushpins between suspect products and lab benchmarks, manila evidence folders with `[CLASSIFIED]` stamps, typewriter text, and fingerprint graphite smudges.
+  5. **Polaroid Forensic Snapshot**: Authentic white chemical Polaroid 600 frames with wide chins, handwritten black Sharpie notes, chemical developing emulsion bloom (dark to full exposure), scotch tape, and paperclip clusters. Ideal for field reportage and high-impact scene openers.
+  6. **Tactical Cartography (Johnny Harris Map)**: Tilted 3D topographic contour blueprints, animated red route trajectories, glowing amber GPS pins, coordinate crosshairs (`48°51'24"N 2°17'48"E`), and torn paper revealing satellite terrain.
 - **Dual Execution Pathways**:
   - **Generative Video Prompts (Google Flow / Omni Flash 1.1)**: Structured 5-line prompts (`STYLE REFERENCE`, `SCENE`, `MOTION`, `AUDIO`, `NEGATIVE`) with 3 physical depths (BG/MG/FG) and diegetic Foley sound design (NO voiceover, NO music).
   - **Deterministic Remotion Engine**: Code-based rendering using `Halftone` dot overlays, `TearReveal` paper rips, `AlertWash` color floods, and `VoxStamp` rubber letterpress stamps.
