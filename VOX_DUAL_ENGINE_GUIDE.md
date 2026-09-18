@@ -3,9 +3,9 @@
 
 ---
 
-### Overview: The Two Co-Existing Vox Engines
+### Overview: One Unified System, Two Sources, Two Intents
 
-In our broadcast pipeline, "Vox style" encompasses two distinct, specialized creative directions:
+It is critical to understand: **Remotion ALSO contains the full GitHub Vox engine. This is NOT a dichotomy where AI video does dioramas and Remotion only does flat graphics. It is ONE UNIFIED SYSTEM with shared aesthetic DNA, deployed across different sources and different production intents:**
 
 ```
                                   ┌──────────────────────────────────────────────┐
@@ -13,23 +13,25 @@ In our broadcast pipeline, "Vox style" encompasses two distinct, specialized cre
                                   │      (Spoken Clause / Thesis / Paragraph)    │
                                   └──────────────────────┬───────────────────────┘
                                                          │
-                                        Choose Production Engine
+                                  ONE UNIFIED VOX VISUAL LANGUAGE
+                     (Halftone Dots, Paper Dioramas, Calipers, Stamps, Foley)
                                                          │
                            ┌─────────────────────────────┴─────────────────────────────┐
                            │                                                           │
                            ▼                                                           ▼
              ┌───────────────────────────┐                               ┌───────────────────────────┐
-             │         ENGINE 1          │                               │         ENGINE 2          │
-             │  Cinematic Paper-Diorama  │                               │  Editorial Swiss Graphic  │
-             │   (Generative AI Video)   │                               │     (Remotion 2.5D Code)  │
+             │         SOURCE A          │                               │         SOURCE B          │
+             │   Generative AI Video     │                               │      Remotion Engine      │
+             │   (Google Flow / Omni)    │                               │  (Deterministic 2.5D Code)│
              └─────────────┬─────────────┘                               └─────────────┬─────────────┘
                            │                                                           │
-            • Google Flow / Omni Flash 1.1                              • Remotion deterministic engine
-            • 3 Physical Depths (BG / MG / FG)                          • `VoxPaperDesk` backdrop (#F4EFEA)
-            • Desaturated archival newsprint                            • High-res photographic cutouts
-            • Halftone cutouts, rough keylines                          • Floating contact shadows
-            • Ticking mechanical counters, brass calipers               • Dynamic yellow felt-tip highlighters
-            • Diegetic physical Foley (NO VO/music)                     • Frame-accurate .wav Foley mixing
+            • INTENT: Cinematic organic motion                          • INTENT: Exact frame accuracy,
+              and photorealistic diffusion                                data meters, forensic tables
+            • 3 Physical Depths (BG / MG / FG)                          • Halftone dot textures (`Halftone`)
+            • Desaturated archival newsprint                            • Paper tear reveals (`TearReveal`)
+            • Halftone cutouts, rough keylines                          • Distressed stamps (`VoxStamp`)
+            • Brass calipers, ticking counters                          • Precision HUD calipers & meters
+            • Diegetic physical Foley (NO VO/music)                     • Synchronous frame-accurate Foley
 ```
 
 ---
@@ -95,15 +97,19 @@ NEGATIVE: color drift, photorealism, glossy 3D chrome, live-action footage, huma
 
 ---
 
-## 2. Engine 2: Editorial Swiss Graphic Motion Engine (Remotion Track B)
+## 2. Source B: Remotion Deterministic Code Execution (Track B)
 
-### Visual DNA & Execution:
-- **Backdrop**: `VoxPaperDesk` archival cream surface (`#F4EFEA`) with subtle edge vignette and millimeter grid registration marks.
-- **Hardware Integration**: Authentic, high-resolution photographic transparent PNG cutouts (`product_images/<brand>/`) floating with realistic contact drop shadows (`rgba(0,0,0,0.18)`).
-- **Typography & Highlighters**: Permanent high-contrast typography (Space Grotesk + IBM Plex Mono). Vibrant yellow felt-tip highlighters (`#F5E050`) sweep dynamically *behind* text.
-- **Editorial Calipers & Stamps**: Precision technical calipers measure units; distressed rubber stamps (`VoxStamp`) slam down with spring damping.
+### Visual DNA & Full Component Library:
+Remotion is NOT limited to flat graphics—it fully implements the GitHub Vox visual language:
+- **Newsprint Halftone Textures**: `Halftone` component rendering pure CSS radial-gradient halftone dot patterns in multiply blend mode over warm drafting paper.
+- **Physical Paper Tear Reveals**: `TearReveal` component using deterministic jittered clip-path polygons with SVG edge borders to rip away paper layers in physical space.
+- **Alert Wash Overlays**: `AlertWash` component momentarily washing the entire canvas in hot red (`#D62E1F`) on dramatic turning points.
+- **Rubber Letterpress Stamps**: `VoxStamp` / `Stamp` with spring-damped physical drop impact and distressed ink textures.
+- **Dynamic Highlighters**: Translucent yellow felt-tip streak sweeping dynamically *behind* permanent high-contrast text.
+- **Tactile Calipers & Metric Telemetry**: Precision mechanical measurement brackets and live ticking decibel/wattage meters.
+- **Photographic Cutouts & Contact Shadows**: High-resolution authentic transparent PNGs floating with soft ambient contact shadows.
+- **Synchronous Acoustic Foley**: Frame-accurate `.wav` Foley hits for every single physical event (`thud.wav`, `click.wav`, `swoosh.wav`, `draw.wav`, `stamp_slam.wav`, `pop.wav`).
 - **Zero Unmotivated Tape**: No arbitrary masking tape strips across pristine hardware. Tape is only used when physically securing a card or badge.
-- **Synchronous Acoustic Foley**: Frame-accurate sound hits from `public/sfx/` (`thud.wav`, `click.wav`, `swoosh.wav`, `draw.wav`, `stamp_slam.wav`, `pop.wav`).
 
 ---
 
