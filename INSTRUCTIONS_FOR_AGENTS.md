@@ -274,8 +274,9 @@ Agents often add arbitrary tech headers at the top of the canvas to fill space. 
 ```
 ```tsx
 // ✅ ACCEPTED BROADCAST STANDARD:
-// Keep the top of the frame completely clean or use a solitary minimal eyebrow badge
-// directly connected to the active subject entering in the center.
+// Keep the top of the frame completely clean.
+// ABSOLUTELY ZERO EYEBROWS, ZERO PILL BADGES, AND ZERO CATEGORY LABELS.
+// Primary titles land on their own with authoritative typography and pure negative space.
 ```
 
 ### ❌ BANNED: Inventing Filler Text & Over-Explaining
